@@ -1,8 +1,7 @@
 import React from 'react'
-import '../style.css'
+import './dash.css'
 
-
-const page = () => {
+const dashboard = () => {
   return (
     <>
       <div className="dashboard">
@@ -291,8 +290,7 @@ const page = () => {
       </div>
     </div>
     </>
-    
   )
 }
 
-export default page
+export default dashboard

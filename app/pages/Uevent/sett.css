@@ -1,0 +1,934 @@
+
+  
+  .sign-up .component-1 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .sign-up .icon-instance-node-3 {
+    height: 22px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 22px !important;
+  }
+  
+  .sign-up .component-instance {
+    color: #787486 !important;
+  }
+  
+  .sign-up .vuesax-outline-arrow-down-3 {
+    height: 21.18px !important;
+    position: relative !important;
+    width: 21.18px !important;
+  }
+  
+  .sign-up .component-1-instance {
+    color: #004c59 !important;
+  }
+  
+  .sign-up .vuesax-linear-setting-2-2 {
+    height: 22.36px !important;
+    position: relative !important;
+    width: 22.36px !important;
+  }
+  
+  .sign-up .vuesax-linear-notification-2 {
+    height: 26px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 5px !important;
+    width: 26px !important;
+  }
+  
+  .sign-up .vuesax-outline-arrow-down-4 {
+    height: 23px !important;
+    left: 124px !important;
+    position: absolute !important;
+    top: 1px !important;
+    width: 23px !important;
+  }
+  
+  .sign-up .vuesax-linear-messages-3-2 {
+    height: 26px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 10px !important;
+    width: 26px !important;
+  }
+  
+  .sign-up .group-17 {
+    background-color: #ffffff;
+    border-radius: 6px;
+    height: 44px;
+    left: 289px;
+    position: absolute;
+    top: 25px;
+    width: 808px;
+  }
+  
+  .sign-up .group-18 {
+    height: 22px;
+    left: 17px;
+    position: relative;
+    top: 10px;
+    width: 161px;
+  }
+  
+  .sign-up .text-wrapper-12 {
+    color: #787486;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+    width: 120px;
+  }
+  
+  .sign-up .group-19 {
+    height: 689px;
+    left: 298px;
+    position: absolute;
+    top: 130px;
+    width: 1105px;
+  }
+  
+  .sign-up .overlap-4 {
+    height: 689px;
+    position: relative;
+  }
+  
+  .sign-up .group-20 {
+    height: 614px;
+    left: 1px;
+    position: absolute;
+    top: 75px;
+    width: 1104px;
+  }
+  
+  .sign-up .calendar {
+    height: 550px;
+    left: 0;
+    position: absolute;
+    top: 64px;
+    width: 1104px;
+  }
+  
+  .sign-up .overlap-group-3 {
+    background-image: url(https://c.animaapp.com/4LtK2jGG/img/group-3.png);
+    background-size: 100% 100%;
+    height: 548px;
+    left: 1px;
+    position: relative;
+    top: 1px;
+    width: 1101px;
+  }
+  
+  .sign-up .text-wrapper-13 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 28px;
+  }
+  
+  .sign-up .element {
+    color: #bdbdbd;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 133px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 35px;
+    width: 18px;
+  }
+  
+  .sign-up .element-2 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 138px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 9px;
+  }
+  
+  .sign-up .element-3 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 246px;
+    width: 18px;
+  }
+  
+  .sign-up .element-4 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-5 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 129px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .element-6 {
+    color: #bdbdbd;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 285px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 38px;
+    width: 18px;
+  }
+  
+  .sign-up .element-7 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 294px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 9px;
+  }
+  
+  .sign-up .element-8 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 285px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 246px;
+    width: 18px;
+  }
+  
+  .sign-up .element-9 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 285px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-10 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 285px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .element-11 {
+    color: #bdbdbd;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 443px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 38px;
+    width: 18px;
+  }
+  
+  .sign-up .element-12 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 452px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 9px;
+  }
+  
+  .sign-up .overlap-5 {
+    height: 103px;
+    left: 440px;
+    position: absolute;
+    top: 235px;
+    width: 506px;
+  }
+  
+  .sign-up .overlap-6 {
+    height: 103px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 506px;
+  }
+  
+  .sign-up .rectangle-3 {
+    background-color: #f5f5f5;
+    height: 103px;
+    left: 348px;
+    position: absolute;
+    top: 0;
+    width: 158px;
+  }
+  
+  .sign-up .element-13 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 472px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 12px;
+    width: 18px;
+  }
+  
+  .sign-up .rectangle-4 {
+    background-color: #e0faff;
+    height: 25px;
+    left: 0;
+    position: absolute;
+    top: 62px;
+    width: 440px;
+  }
+  
+  .sign-up .all-offers-live-offe {
+    color: #004c59;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 66px;
+    white-space: nowrap;
+    width: 305px;
+  }
+  
+  .sign-up .element-14 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 12px;
+    width: 18px;
+  }
+  
+  .sign-up .element-15 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 159px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 12px;
+    width: 18px;
+  }
+  
+  .sign-up .element-16 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 315px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 12px;
+    width: 18px;
+  }
+  
+  .sign-up .element-17 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 443px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-18 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 443px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .element-19 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 608px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 37px;
+    width: 9px;
+  }
+  
+  .sign-up .element-20 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 599px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 18px;
+  }
+  
+  .sign-up .element-21 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 599px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-22 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 599px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .element-23 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 764px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 37px;
+    width: 9px;
+  }
+  
+  .sign-up .element-24 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 755px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 18px;
+  }
+  
+  .sign-up .element-25 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 755px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-26 {
+    color: #282828;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 755px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .element-27 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 920px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 37px;
+    width: 9px;
+  }
+  
+  .sign-up .element-28 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 912px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 18px;
+  }
+  
+  .sign-up .element-29 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 912px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-30 {
+    color: #282828;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 912px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .element-31 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 1077px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 37px;
+    width: 9px;
+  }
+  
+  .sign-up .element-32 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 1068px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 142px;
+    width: 18px;
+  }
+  
+  .sign-up .element-33 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 1068px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 246px;
+    width: 18px;
+  }
+  
+  .sign-up .element-34 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 1068px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 350px;
+    width: 18px;
+  }
+  
+  .sign-up .element-35 {
+    color: #bdbdbd;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-size: 14.5px;
+    font-weight: 400;
+    left: 1068px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 454px;
+    width: 18px;
+  }
+  
+  .sign-up .text-wrapper-14 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 220px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 35px;
+  }
+  
+  .sign-up .text-wrapper-15 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 382px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 27px;
+  }
+  
+  .sign-up .text-wrapper-16 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 537px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 33px;
+  }
+  
+  .sign-up .text-wrapper-17 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 694px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 29px;
+  }
+  
+  .sign-up .text-wrapper-18 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 856px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 19px;
+  }
+  
+  .sign-up .text-wrapper-19 {
+    color: #3c4144;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 1009px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 4px;
+    width: 34px;
+  }
+  
+  .sign-up .overlap-7 {
+    height: 25px;
+    left: 147px;
+    position: absolute;
+    top: 401px;
+    width: 440px;
+  }
+  
+  .sign-up .rectangle-5 {
+    background-color: #d1ecff;
+    height: 25px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 440px;
+  }
+  
+  .sign-up .p {
+    color: #004c59;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 4px;
+    white-space: nowrap;
+    width: 305px;
+  }
+  
+  .sign-up .group-21 {
+    height: 40px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 1103px;
+  }
+  
+  .sign-up .july {
+    color: #333333;
+    font-family: "Helvetica Neue-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 476px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 8px;
+    width: 149px;
+  }
+  
+  .sign-up .group-22 {
+    height: 32px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 68px;
+  }
+  
+  .sign-up .group-23 {
+    height: 115px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1102px;
+  }
+  
+  .sign-up .text-wrapper-20 {
+    color: #050505;
+    font-family: "Inter", Helvetica;
+    font-size: 27px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 167px;
+  }
+  
+  .sign-up .calendar-day {
+    height: 23px;
+    left: 1035px;
+    position: absolute;
+    top: 92px;
+    width: 23px;
+  }
+  
+  .sign-up .list {
+    height: 21px;
+    left: 1079px;
+    position: absolute;
+    top: 93px;
+    width: 21px;
+  }
+  
+  .sign-up .frame-6 {
+    align-items: center;
+    display: inline-flex;
+    gap: 13px;
+    left: 1037px;
+    position: absolute;
+    top: 129px;
+  }
+  
+  .sign-up .input {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #c0c1c2;
+    border-radius: 6.1px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    overflow: hidden;
+    padding: 13px 56px 13px 14px;
+    position: relative;
+  }
+  
+  .sign-up .icons-left {
+    height: 15.92px;
+    position: relative;
+    width: 15.92px;
+  }
+  
+  .sign-up .user-interface {
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .sign-up .round {
+    height: 13px;
+    left: 3px;
+    position: absolute;
+    top: 3px;
+    width: 13px;
+  }
+  
+  .sign-up .content {
+    height: 15.92px;
+    position: relative;
+    width: 238.87px;
+  }
+  
+  .sign-up .search-offers-and {
+    background: transparent;
+    border: none;
+    color: #8d939a;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 11.7px;
+    font-weight: 400;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 0;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .group-24 {
+    height: 24px;
+    position: relative;
+    width: 24px;
+  }
+  

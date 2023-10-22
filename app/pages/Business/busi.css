@@ -1,0 +1,397 @@
+.sign-up {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+
+  
+  .sign-up .overlap-3 {
+    height: 1024px;
+    position: relative;
+  }
+  
+  .sign-up .component-1 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .sign-up .icon-instance-node-3 {
+    height: 22px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 22px !important;
+  }
+  
+  .sign-up .component-instance {
+    color: #787486 !important;
+  }
+  
+  .sign-up .component-1-instance {
+    color: #004c59 !important;
+  }
+  
+  .sign-up .vuesax-outline-arrow-down-3 {
+    height: 21.18px !important;
+    position: relative !important;
+    width: 21.18px !important;
+  }
+  
+  .sign-up .vuesax-linear-setting-2-2 {
+    height: 22.36px !important;
+    position: relative !important;
+    width: 22.36px !important;
+  }
+  
+  .sign-up .vuesax-linear-notification-2 {
+    height: 26px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 5px !important;
+    width: 26px !important;
+  }
+  
+  .sign-up .vuesax-outline-arrow-down-4 {
+    height: 23px !important;
+    left: 124px !important;
+    position: absolute !important;
+    top: 1px !important;
+    width: 23px !important;
+  }
+  
+  .sign-up .vuesax-linear-messages-3-2 {
+    height: 26px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 10px !important;
+    width: 26px !important;
+  }
+  
+  .sign-up .group-17 {
+    height: 288px;
+    left: 577px;
+    position: absolute;
+    top: 195px;
+    width: 249px;
+  }
+  
+  .sign-up .overlap-4 {
+    height: 288px;
+    position: relative;
+  }
+  
+  .sign-up .group-18 {
+    height: 288px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 249px;
+  }
+  
+  .sign-up .group-19 {
+    height: 288px;
+    width: 255px;
+  }
+  
+  .sign-up .overlap-group-3 {
+    border: 0.6px solid;
+    border-color: #8ac0c9;
+    border-radius: 5.68px;
+    height: 288px;
+    position: relative;
+    width: 249px;
+  }
+  
+  .sign-up .text-wrapper-12 {
+    color: #004c59;
+    font-family: "SF Pro-Bold", Helvetica;
+    font-size: 18.7px;
+    font-weight: 700;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 127px;
+    white-space: nowrap;
+    width: 202px;
+  }
+  
+  .sign-up .precise-consultancy {
+    color: #000000;
+    font-family: "SF Pro-Light", Helvetica;
+    font-size: 9.7px;
+    font-weight: 300;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: 16.4px;
+    position: absolute;
+    text-align: center;
+    top: 154px;
+    width: 161px;
+  }
+  
+  .sign-up .frame-6 {
+    align-items: center;
+    display: flex;
+    gap: 4.12px;
+    height: 18px;
+    left: 84px;
+    position: absolute;
+    top: 192px;
+    width: 71px;
+  }
+  
+  .sign-up .distribute-spacing {
+    height: 9.62px;
+    position: relative;
+    width: 9.62px;
+  }
+  
+  .sign-up .text-wrapper-13 {
+    color: #257886;
+    font-family: "SF Pro-Semibold", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18.5px;
+    margin-right: -0.18px;
+    margin-top: -1.39px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .sign-up .p {
+    color: #a6a6a6;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 8.8px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: 14.8px;
+    position: absolute;
+    text-align: center;
+    top: 218px;
+    white-space: nowrap;
+    width: 144px;
+  }
+  
+  .sign-up .frame-7 {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 5.58px;
+    height: 26px;
+    left: 85px;
+    position: absolute;
+    top: 247px;
+    width: 83px;
+  }
+  
+  .sign-up .text-wrapper-14 {
+    color: #004c59;
+    font-family: "Inter", Helvetica;
+    font-size: 12.1px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .sign-up .group-20 {
+    height: 29.27px;
+    margin-bottom: -1.42px;
+    margin-right: -0.64px;
+    margin-top: -1.42px;
+    position: relative;
+    width: 29.27px;
+  }
+  
+  .sign-up .element-grace {
+    height: 76px;
+    left: 664px;
+    object-fit: cover;
+    position: absolute;
+    top: 230px;
+    width: 76px;
+  }
+  
+  .sign-up .group-21 {
+    height: 288px;
+    left: 1143px;
+    position: absolute;
+    top: 195px;
+    width: 249px;
+  }
+  
+  .sign-up .overlap-5 {
+    height: 288px;
+    position: relative;
+    width: 255px;
+  }
+  
+  .sign-up .group-22 {
+    height: 288px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 255px;
+  }
+  
+  .sign-up .element {
+    height: 72px;
+    left: 81px;
+    object-fit: cover;
+    position: absolute;
+    top: 31px;
+    width: 86px;
+  }
+  
+  .sign-up .group-23 {
+    height: 288px;
+    left: 862px;
+    position: absolute;
+    top: 195px;
+    width: 249px;
+  }
+  
+  .sign-up .group-24 {
+    height: 288px;
+    left: 298px;
+    position: absolute;
+    top: 195px;
+    width: 249px;
+  }
+  
+  .sign-up .group-25 {
+    height: 288px;
+    left: 577px;
+    position: absolute;
+    top: 512px;
+    width: 249px;
+  }
+  
+  .sign-up .element-grace-2 {
+    height: 76px;
+    left: 664px;
+    object-fit: cover;
+    position: absolute;
+    top: 547px;
+    width: 76px;
+  }
+  
+  .sign-up .group-26 {
+    height: 288px;
+    left: 1143px;
+    position: absolute;
+    top: 512px;
+    width: 249px;
+  }
+  
+  .sign-up .group-27 {
+    height: 288px;
+    left: 862px;
+    position: absolute;
+    top: 512px;
+    width: 249px;
+  }
+  
+  .sign-up .group-28 {
+    height: 288px;
+    left: 298px;
+    position: absolute;
+    top: 512px;
+    width: 249px;
+  }
+  
+  .sign-up .frame-8 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 901px;
+    left: 299px;
+    position: absolute;
+    top: 130px;
+  }
+  
+  .sign-up .text-wrapper-15 {
+    color: #050505;
+    font-family: "Inter", Helvetica;
+    font-size: 27px;
+    font-weight: 400;
+    height: 27px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: 167.4px;
+  }
+  
+  .sign-up .input {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #c0c1c2;
+    border-radius: 6.1px;
+    display: inline-flex;
+    left: 1028px;
+    overflow: hidden;
+    padding: 13px 56px 13px 14px;
+    position: absolute;
+    top: 130px;
+  }
+  
+  .sign-up .icons-left {
+    height: 15.92px;
+    position: relative;
+    width: 15.92px;
+  }
+  
+  .sign-up .user-interface {
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .sign-up .round {
+    height: 13px;
+    left: 3px;
+    position: absolute;
+    top: 3px;
+    width: 13px;
+  }
+  
+  .sign-up .content {
+    height: 15.92px;
+    position: relative;
+    width: 238.87px;
+  }
+  
+  .sign-up .search-offers-and {
+    background: transparent;
+    border: none;
+    color: #8d939a;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 11.7px;
+    font-weight: 400;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 0;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .group-29 {
+    height: 24px;
+    left: 1366px;
+    position: absolute;
+    top: 139px;
+    width: 24px;
+  }
+  

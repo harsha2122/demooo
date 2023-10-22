@@ -1,0 +1,959 @@
+.sign-up {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sign-up .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .sign-up .overlap {
+    position: relative;
+    height: 1024px;
+  }
+  
+  .sign-up .component {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .rectangle {
+    width: 254px;
+    height: 930px;
+    top: 94px;
+    background-color: #fafafb;
+    position: absolute;
+    left: 0;
+  }
+  
+  .sign-up .group {
+    position: absolute;
+    width: 210px;
+    height: 870px;
+    top: 69px;
+    left: 22px;
+    background-color: #fafafb;
+  }
+  
+  .sign-up .div {
+    position: absolute;
+    width: 115px;
+    height: 22px;
+    top: 71px;
+    left: 1px;
+  }
+  
+  .sign-up .img {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper {
+    position: absolute;
+    top: 2px;
+    left: 35px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .group-2 {
+    position: absolute;
+    width: 199px;
+    height: 227px;
+    top: 127px;
+    left: 0;
+  }
+  
+  .sign-up .frame-wrapper {
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .frame {
+    display: inline-flex;
+    align-items: center;
+    gap: 13.04px;
+    position: relative;
+  }
+  
+  .sign-up .img-2 {
+    position: relative;
+    width: 22.36px;
+    height: 22.36px;
+  }
+  
+  .sign-up .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .vuesax-outline-arrow {
+    position: relative;
+    width: 21.18px;
+    height: 21.18px;
+  }
+  
+  .sign-up .frame-2 {
+    display: flex;
+    flex-direction: column;
+    width: 178px;
+    height: 164px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 17.7px;
+    padding: 7.45px;
+    position: absolute;
+    top: 63px;
+    left: 21px;
+  }
+  
+  .sign-up .cafe-restaurant {
+    position: relative;
+    width: fit-content;
+    margin-top: -24.66px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .building {
+    position: relative;
+    width: fit-content;
+    margin-right: -1.99px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -22.8px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .div-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 19.56px;
+    position: absolute;
+    top: 395px;
+    left: 0;
+  }
+  
+  .sign-up .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 19.56px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .vector {
+    position: relative;
+    width: 208.65px;
+    height: 1px;
+    margin-top: -0.47px;
+  }
+  
+  .sign-up .group-wrapper {
+    position: relative;
+    width: 193.75px;
+    height: 22.36px;
+  }
+  
+  .sign-up .group-3 {
+    width: 194px;
+    height: 22px;
+  }
+  
+  .sign-up .frame-4 {
+    display: flex;
+    width: 194px;
+    align-items: center;
+    gap: 13.04px;
+    position: relative;
+  }
+  
+  .sign-up .text-wrapper-5 {
+    position: relative;
+    width: 128.54px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .vector-2 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 109px;
+    left: -4px;
+  }
+  
+  .sign-up .vector-3 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 538px;
+    left: 0;
+  }
+  
+  .sign-up .group-4 {
+    position: absolute;
+    width: 194px;
+    height: 24px;
+    top: 558px;
+    left: 0;
+  }
+  
+  .sign-up .group-5 {
+    height: 24px;
+  }
+  
+  .sign-up .iconly {
+    position: relative;
+    width: 24.22px;
+    height: 24.22px;
+  }
+  
+  .sign-up .vector-4 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 601px;
+    left: 0;
+  }
+  
+  .sign-up .group-6 {
+    position: absolute;
+    width: 194px;
+    height: 25px;
+    top: 621px;
+    left: 0;
+  }
+  
+  .sign-up .group-7 {
+    height: 25px;
+  }
+  
+  .sign-up .iconly-2 {
+    position: relative;
+    width: 25.15px;
+    height: 25.15px;
+  }
+  
+  .sign-up .vector-5 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 665px;
+    left: 0;
+  }
+  
+  .sign-up .group-8 {
+    position: absolute;
+    width: 194px;
+    height: 22px;
+    top: 685px;
+    left: 0;
+  }
+  
+  .sign-up .group-9 {
+    height: 22px;
+  }
+  
+  .sign-up .vector-6 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 727px;
+    left: 0;
+  }
+  
+  .sign-up .group-10 {
+    position: absolute;
+    width: 100px;
+    height: 24px;
+    top: 748px;
+    left: 0;
+  }
+  
+  .sign-up .frame-5 {
+    display: inline-flex;
+    align-items: center;
+    gap: 13.97px;
+    position: relative;
+  }
+  
+  .sign-up .iconly-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .sign-up .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .vector-7 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 790px;
+    left: 0;
+  }
+  
+  .sign-up .group-11 {
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    top: 809px;
+    left: 0;
+  }
+  
+  .sign-up .vector-8 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 849px;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper-7 {
+    position: absolute;
+    top: 458px;
+    left: 33px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-8 {
+    position: absolute;
+    top: 494px;
+    left: 33px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .rectangle-2 {
+    width: 1440px;
+    height: 94px;
+    top: 0;
+    background-color: #004c59;
+    box-shadow: 0px 1px 4px #0000000d;
+    position: absolute;
+    left: 0;
+  }
+  
+  .sign-up .group-12 {
+    position: absolute;
+    width: 808px;
+    height: 44px;
+    top: 25px;
+    left: 289px;
+    background-color: #ffffff;
+    border-radius: 6px;
+  }
+  
+  .sign-up .group-13 {
+    position: relative;
+    width: 161px;
+    height: 22px;
+    top: 10px;
+    left: 17px;
+  }
+  
+  .sign-up .text-wrapper-9 {
+    width: 120px;
+    top: 3px;
+    left: 38px;
+    font-family: "Inter", Helvetica;
+    color: #787486;
+    font-size: 14px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .group-14 {
+    position: absolute;
+    width: 246px;
+    height: 42px;
+    top: 28px;
+    left: 1147px;
+  }
+  
+  .sign-up .overlap-group-wrapper {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 2px;
+    left: 37px;
+  }
+  
+  .sign-up .overlap-group {
+    position: relative;
+    height: 40px;
+  }
+  
+  .sign-up .notifications-none {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .overlap-group-2 {
+    position: relative;
+    width: 33px;
+    height: 31px;
+    top: 3px;
+    left: 6px;
+  }
+  
+  .sign-up .vuesax-linear {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .sign-up .ellipse {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 0;
+    left: 14px;
+    background-color: #f62020;
+    border-radius: 9.33px;
+    border: 1.33px solid;
+    border-color: var(--backgroundlight);
+  }
+  
+  .sign-up .text-wrapper-10 {
+    position: absolute;
+    height: 17px;
+    top: 0;
+    left: 18px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .ellipse-2 {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 3px;
+    left: 21px;
+    background-color: #f62020;
+    border-radius: 9.33px;
+    border: 1.33px solid;
+    border-color: var(--backgroundlight);
+  }
+  
+  .sign-up .overlap-2 {
+    position: absolute;
+    width: 147px;
+    height: 38px;
+    top: 0;
+    left: 99px;
+  }
+  
+  .sign-up .group-15 {
+    position: absolute;
+    width: 147px;
+    height: 24px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .sign-up .vuesax-outline-arrow-2 {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    top: 1px;
+    left: 124px;
+  }
+  
+  .sign-up .group-16 {
+    position: absolute;
+    width: 56px;
+    height: 19px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sign-up .ellipse-3 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 0;
+    left: 70px;
+    object-fit: cover;
+  }
+  
+  .sign-up .vuesax-linear-2 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 10px;
+    left: 0;
+  }
+  
+  .sign-up .ADCCI-LL {
+    position: absolute;
+    width: 174px;
+    height: 36px;
+    top: 29px;
+    left: 36px;
+    object-fit: cover;
+  }
+  
+  .sign-up .group-17 {
+    position: absolute;
+    width: 1092px;
+    height: 27px;
+    top: 130px;
+    left: 298px;
+  }
+  
+  .sign-up .group-18 {
+    position: relative;
+    width: 1094px;
+    height: 27px;
+  }
+  
+  .sign-up .text-wrapper-12 {
+    position: absolute;
+    width: 167px;
+    top: 0;
+    left: 0;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #050505;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sign-up .apps-sort {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 3px;
+    left: 1068px;
+  }
+  
+  .sign-up .input-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 13px;
+    position: absolute;
+    top: 127px;
+    left: 1028px;
+  }
+  
+  .sign-up .input {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 13px 56px 13px 14px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 6.1px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #c0c1c2;
+  }
+  
+  .sign-up .icons-left {
+    position: relative;
+    width: 15.92px;
+    height: 15.92px;
+  }
+  
+  .sign-up .user-interface {
+    position: relative;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .sign-up .round {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 3px;
+    left: 3px;
+  }
+  
+  .sign-up .content {
+    position: relative;
+    width: 238.87px;
+    height: 15.92px;
+  }
+  
+  .sign-up .search-news {
+    top: 1px;
+    left: 14px;
+    font-family: "SF Pro-Regular", Helvetica;
+    color: #8d939a;
+    font-size: 11.7px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+  .sign-up .title {
+    position: absolute;
+    width: 507px;
+    height: 58px;
+    top: 212px;
+    left: 557px;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-weight: 400;
+    color: #121212;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 29.4px;
+  }
+  
+  .sign-up .p {
+    width: 507px;
+    height: 58px;
+    top: 421px;
+    left: 557px;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.4px;
+    position: absolute;
+    color: #121212;
+    letter-spacing: 0;
+  }
+  
+  .sign-up .title-2 {
+    width: 507px;
+    height: 58px;
+    top: 644px;
+    left: 557px;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.4px;
+    position: absolute;
+    color: #121212;
+    letter-spacing: 0;
+  }
+  
+  .sign-up .overline {
+    position: absolute;
+    width: 115px;
+    top: 283px;
+    left: 557px;
+    font-family: "SF Pro-Semibold", Helvetica;
+    font-weight: 400;
+    color: #a2a2a2;
+    font-size: 12px;
+    letter-spacing: 1.39px;
+    line-height: 14.1px;
+  }
+  
+  .sign-up .frame-6 {
+    display: flex;
+    flex-direction: column;
+    width: 514px;
+    align-items: flex-start;
+    gap: 7.31px;
+    position: absolute;
+    top: 312px;
+    left: 558px;
+  }
+  
+  .sign-up .secondary-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 344.35px;
+    align-items: flex-start;
+    gap: 4.57px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .secondary-text {
+    position: relative;
+    width: 530px;
+    height: 60px;
+    margin-top: -0.91px;
+    margin-right: -185.65px;
+    font-family: "SF Pro-Light", Helvetica;
+    font-weight: 300;
+    color: var(--lighton-surface-medium-emphasis);
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 18.2px;
+  }
+  
+  .sign-up .screenshot {
+    top: 212px;
+    position: absolute;
+    width: 252px;
+    height: 180px;
+    left: 288px;
+    object-fit: cover;
+  }
+  
+  .sign-up .overline-2 {
+    width: 115px;
+    top: 498px;
+    left: 557px;
+    font-family: "SF Pro-Semibold", Helvetica;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 1.39px;
+    line-height: 14.1px;
+    position: absolute;
+    color: #a2a2a2;
+  }
+  
+  .sign-up .frame-7 {
+    display: flex;
+    flex-direction: column;
+    width: 514px;
+    align-items: flex-start;
+    gap: 7.31px;
+    position: absolute;
+    top: 529px;
+    left: 558px;
+  }
+  
+  .sign-up .screenshot-2 {
+    top: 427px;
+    position: absolute;
+    width: 252px;
+    height: 180px;
+    left: 288px;
+    object-fit: cover;
+  }
+  
+  .sign-up .overline-3 {
+    width: 115px;
+    top: 722px;
+    left: 557px;
+    font-family: "SF Pro-Semibold", Helvetica;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 1.39px;
+    line-height: 14.1px;
+    position: absolute;
+    color: #a2a2a2;
+  }
+  
+  .sign-up .frame-8 {
+    display: flex;
+    flex-direction: column;
+    width: 514px;
+    align-items: flex-start;
+    gap: 7.31px;
+    position: absolute;
+    top: 773px;
+    left: 558px;
+  }
+  
+  .sign-up .screenshot-3 {
+    top: 651px;
+    position: absolute;
+    width: 252px;
+    height: 180px;
+    left: 288px;
+    object-fit: cover;
+  }
+  
+  .sign-up .screenshot-4 {
+    top: 205px;
+    position: absolute;
+    width: 290px;
+    height: 133px;
+    left: 1105px;
+    object-fit: cover;
+  }
+  
+  .sign-up .title-3 {
+    width: 292px;
+    height: 51px;
+    top: 351px;
+    left: 1105px;
+    font-family: "SF Pro-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 13.5px;
+    line-height: 16.5px;
+    position: absolute;
+    color: #121212;
+    letter-spacing: 0;
+  }
+  
+  .sign-up .overline-4 {
+    width: 77px;
+    top: 409px;
+    left: 1105px;
+    font-family: "SF Pro-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 8.4px;
+    letter-spacing: 1.16px;
+    line-height: 11.8px;
+    position: absolute;
+    color: #a2a2a2;
+  }
+  
+  .sign-up .frame-9 {
+    display: flex;
+    flex-direction: column;
+    width: 289px;
+    height: 78px;
+    align-items: flex-start;
+    gap: 3.83px;
+    position: absolute;
+    top: 431px;
+    left: 1105px;
+  }
+  
+  .sign-up .secondary-text-2 {
+    position: relative;
+    width: 288.93px;
+    height: 50.58px;
+    margin-top: -0.77px;
+    font-family: "SF Pro-Light", Helvetica;
+    font-weight: 300;
+    color: var(--lighton-surface-medium-emphasis);
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 16.8px;
+  }
+  
+  .sign-up .screenshot-5 {
+    top: 529px;
+    position: absolute;
+    width: 290px;
+    height: 133px;
+    left: 1105px;
+    object-fit: cover;
+  }
+  
+  .sign-up .title-4 {
+    width: 292px;
+    height: 51px;
+    top: 675px;
+    left: 1105px;
+    font-family: "SF Pro-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 13.5px;
+    line-height: 16.5px;
+    position: absolute;
+    color: #121212;
+    letter-spacing: 0;
+  }
+  
+  .sign-up .frame-10 {
+    display: flex;
+    flex-direction: column;
+    width: 289px;
+    height: 78px;
+    align-items: flex-start;
+    gap: 3.83px;
+    position: absolute;
+    top: 755px;
+    left: 1105px;
+  }
+  
