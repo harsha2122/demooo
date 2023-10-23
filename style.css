@@ -1360,7 +1360,7 @@
     display: inline-flex;
     flex: 0 0 auto;
     flex-direction: column;
-    gap: 37px;
+    gap: 20px;
     position: relative;
   }
   
@@ -1662,7 +1662,7 @@
     align-items: flex-start;
     display: flex;
     flex-direction: column;
-    gap: 13px;
+    gap: 0px;
     left: 16px;
     position: absolute;
     top: 213px;
@@ -2277,7 +2277,7 @@
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 37px;
+  gap: 20px;
   position: relative;
 }
 
@@ -2408,7 +2408,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 13px;
+  gap: 0px;
   left: 16px;
   position: absolute;
   top: 78px;
@@ -2575,16 +2575,7 @@
   width: 3px;
 }
 
-.dashboard .frame-23 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 13px;
-  left: 16px;
-  position: absolute;
-  top: 213px;
-  width: 360px;
-}
+
 
 .dashboard .text-wrapper-28 {
   color: #343434;

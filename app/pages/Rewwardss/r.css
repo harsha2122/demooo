@@ -751,8 +751,8 @@
   .sign-up .element-OFF {
     position: absolute;
     width: 37px;
-    top: 14px;
-    left: 168px;
+    top: -3px;
+    left: 165px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
     color: #ffffff;
@@ -797,7 +797,7 @@
   .sign-up .element-AED-OFF {
     position: absolute;
     width: 53px;
-    top: 17px;
+    top: 5px;
     left: 155px;
     font-family: "Inter", Helvetica;
     font-weight: 400;

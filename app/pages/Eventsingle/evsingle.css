@@ -290,7 +290,7 @@
   height: 58px;
   left: 232px;
   position: absolute;
-  top: 178px;
+  top: 187px;
   width: 38px;
 }
 
@@ -353,7 +353,7 @@
   height: 58px;
   left: 298px;
   position: absolute;
-  top: 178px;
+  top: 187px;
   width: 38px;
 }
 
@@ -373,9 +373,8 @@
 .sign-up .frame-9 {
   align-items: center;
   display: flex;
-  gap: 71.6px;
   height: 21px;
-  left: 13px;
+  left: -54px;
   position: absolute;
   top: 260px;
   width: 321px;
@@ -418,7 +417,7 @@
 }
 
 .sign-up .frame-11 {
-  align-items: flex-start;
+  align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   position: relative;
@@ -443,6 +442,7 @@
   height: 20.55px;
   position: relative;
   width: 20.55px;
+  margin-bottom: -15px;
 }
 
 .sign-up .overlap-group-4 {

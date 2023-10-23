@@ -51,7 +51,7 @@ const page = () => {
           <p class="title-3">
             Abu Dhabi Chamber discusses private sector policies and methodologies with its sectoral working groups
           </p>
-          <div class="overline-4">JUN 14,2023</div>
+          
           <div class="frame-9">
             <p class="secondary-text-2">
               The Abu Dhabi Chamber of Commerce and Industry (ADCCI) held a comprehensive meeting with its sectoral

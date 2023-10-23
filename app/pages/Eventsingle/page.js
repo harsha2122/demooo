@@ -275,7 +275,7 @@ const page = () => {
               </div>
             </div>
           </div>
-          <div className="group-29">
+          {/* <div className="group-29">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>
               <img
@@ -493,7 +493,7 @@ const page = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
     </>
   )
