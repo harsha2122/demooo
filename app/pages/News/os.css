@@ -738,7 +738,7 @@
     align-items: flex-start;
     gap: 7.31px;
     position: absolute;
-    top: 312px;
+    top: 325px;
     left: 558px;
   }
   
@@ -777,7 +777,7 @@
   
   .sign-up .overline-2 {
     width: 115px;
-    top: 505px;
+    top: 510px;
     left: 557px;
     font-family: "SF Pro-Semibold", Helvetica;
     font-weight: 400;
@@ -795,7 +795,7 @@
     align-items: flex-start;
     gap: 7.31px;
     position: absolute;
-    top: 529px;
+    top: 540px;
     left: 558px;
   }
   
@@ -810,7 +810,7 @@
   
   .sign-up .overline-3 {
     width: 115px;
-    top: 730px;
+    top: 740px;
     left: 557px;
     font-family: "SF Pro-Semibold", Helvetica;
     font-weight: 400;
@@ -853,7 +853,7 @@
   .sign-up .title-3 {
     width: 292px;
     height: 51px;
-    top: 351px;
+    top: 340px;
     left: 1105px;
     font-family: "SF Pro-Medium", Helvetica;
     font-weight: 500;
@@ -893,7 +893,7 @@
     position: relative;
     width: 288.93px;
     height: 50.58px;
-    margin-top: -0.77px;
+    margin-top: -15.77px;
     font-family: "SF Pro-Light", Helvetica;
     font-weight: 300;
     color: var(--lighton-surface-medium-emphasis);
@@ -914,7 +914,7 @@
   .sign-up .title-4 {
     width: 292px;
     height: 51px;
-    top: 675px;
+    top: 665px;
     left: 1105px;
     font-family: "SF Pro-Medium", Helvetica;
     font-weight: 500;

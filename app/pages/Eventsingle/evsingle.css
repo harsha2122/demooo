@@ -256,7 +256,7 @@
   letter-spacing: 0;
   line-height: 20.2px;
   position: absolute;
-  top: 146px;
+  top: 135px;
   width: 323px;
 }
 
@@ -277,9 +277,9 @@
   font-weight: 300;
   left: 13px;
   letter-spacing: 0;
-  line-height: 13.2px;
+  line-height: 17.2px;
   position: absolute;
-  top: 178px;
+  top: 170px;
   width: 146px;
 }
 
@@ -290,7 +290,7 @@
   height: 58px;
   left: 232px;
   position: absolute;
-  top: 187px;
+  top: 180px;
   width: 38px;
 }
 
@@ -343,7 +343,7 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 0;
+  top: -6px;
 }
 
 .sign-up .frame-8 {
@@ -353,7 +353,7 @@
   height: 58px;
   left: 298px;
   position: absolute;
-  top: 187px;
+  top: 180px;
   width: 38px;
 }
 
@@ -374,7 +374,7 @@
   align-items: center;
   display: flex;
   height: 21px;
-  left: -54px;
+  left: 320px;
   position: absolute;
   top: 260px;
   width: 321px;
@@ -385,7 +385,9 @@
   display: inline-flex;
   flex: 0 0 auto;
   gap: 17.85px;
-  position: relative;
+  position: absolute;
+  top: 12px;
+  left: -312px;
 }
 
 .sign-up .group-25 {
@@ -420,7 +422,8 @@
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
-  position: relative;
+  position: absolute;
+  left: -75px;
 }
 
 .sign-up .text-wrapper-18 {
@@ -474,7 +477,7 @@
   height: 7px;
   left: 10px;
   position: absolute;
-  top: 6px;
+  top: 7px;
   width: 4px;
 }
 

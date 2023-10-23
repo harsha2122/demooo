@@ -74,11 +74,11 @@ const page = () => {
               Latest
               News&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{" "}
             </span>
-            <span className="text-wrapper-15">See More</span>
+            <a href='#' className="text-wrapper-15">See More</a>
           </p>
           <div className="frame-13">
-            <div className="frame-14">
-              <p className="news-para">Emirates News Agency and Abu Dhabi Chamber sign MoU</p>
+            <div className="frame-17">
+              <p className="text-wrapper-23">Emirates News Agency and Abu Dhabi Chamber sign MoU</p>
               <div className="frame-15">
                 <div className="text-wrapper-21">Abu Dhabi Chamber</div>
               </div>
@@ -131,7 +131,7 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <div className="frame-22">
+              <a href='#' className="frame-22">
                 <div className="text-wrapper-27">Book Tickets</div>
                 <div className="group-21">
                   <div className="overlap-group-4">
@@ -140,7 +140,7 @@ const page = () => {
                     <img className="vector-10" alt="Vector" src="https://c.animaapp.com/KyTcw1ef/img/vector-6.svg" />
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
           <div className="frame-23">
@@ -164,16 +164,16 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <div className="frame-22">
+              <a href='#' className="frame-22">
                 <div className="text-wrapper-27">Book Tickets</div>
                 <div className="group-21">
                   <div className="overlap-group-4">
                     <div className="ellipse-5" />
-                    <img className="vector-9" alt="Vector" src="https://c.animaapp.com/KyTcw1ef/img/vector-5.svg" />
-                    <img className="vector-10" alt="Vector" src="https://c.animaapp.com/KyTcw1ef/img/vector-6.svg" />
+                    <img className="vector-91" alt="Vector" src="https://c.animaapp.com/KyTcw1ef/img/vector-5.svg" />
+                    <img className="vector-101" alt="Vector" src="https://c.animaapp.com/KyTcw1ef/img/vector-6.svg" />
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -182,7 +182,7 @@ const page = () => {
             Upcoming
             Events&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </span>
-          <span className="text-wrapper-15"> See More</span>
+          <a href='#' className="text-wrapper-15"> See More</a>
         </p>
         <div className="headlines-3">
           <p className="top-opportunities">
@@ -190,7 +190,7 @@ const page = () => {
               Top
               Opportunities&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{" "}
             </span>
-            <span className="text-wrapper-29">See More</span>
+            <a href='#' className="text-wrapper-29">See More</a>
           </p>
           <div className="frame-24">
             <div className="group-22">
@@ -217,24 +217,24 @@ const page = () => {
               </p>
               <div className="frame-27">
                 <div className="text-wrapper-31">Dubai Mall, Dubai</div>
-                <div className="frame-22">
+                <a href='#' className="frame-22">
                   <div className="text-wrapper-32">Know more</div>
                   <div className="div-2">
                     <div className="div-2">
                       <div className="ellipse-6" />
                       <img
-                        className="vector-11"
+                        className="vector-111"
                         alt="Vector"
                         src="https://c.animaapp.com/KyTcw1ef/img/vector-3.svg"
                       />
                       <img
-                        className="vector-12"
+                        className="vector-121"
                         alt="Vector"
                         src="https://c.animaapp.com/KyTcw1ef/img/vector-2.svg"
                       />
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
               <div className="text-wrapper-33">Franchise</div>
             </div>
@@ -264,7 +264,7 @@ const page = () => {
               </p>
               <div className="frame-27">
                 <div className="text-wrapper-31">Dubai Mall, Dubai</div>
-                <div className="frame-22">
+                <a href='#' className="frame-22">
                   <div className="text-wrapper-32">Know more</div>
                   <div className="div-2">
                     <div className="div-2">
@@ -281,7 +281,7 @@ const page = () => {
                       />
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
               <div className="text-wrapper-33">Franchise</div>
             </div>

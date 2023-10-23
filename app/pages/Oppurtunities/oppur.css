@@ -943,11 +943,12 @@
   
   .sign-up .frame-8 {
     height: 118px;
-    background-color: #ffffff;
-    border-radius: 7.09px;
+    background-color: transparent;
     overflow: hidden;
-    border: 0.56px solid;
-    border-color: #dfdfdf;
+    border: none;
+    position: absolute;
+    left: -2px;
+    top: 0px;
   }
   
   .sign-up .mask-group-wrapper {

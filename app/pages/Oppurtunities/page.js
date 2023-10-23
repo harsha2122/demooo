@@ -44,7 +44,7 @@ const oppur = () => {
           <a href='/Pages/Addo' class="group-20">
             <div class="overlap-6"><div class="text-wrapper-17">Add Opportunity</div></div>
           </a>
-          <div class="group-21">
+          <a href='#' class="group-21">
             <div class="overlap-7">
               <div class="text-wrapper-18">Candylicious</div>
               <p class="candylicious-is-the">
@@ -54,15 +54,23 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-3.svg" /> */}
+                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-3.svg" />
                 </div>
               </div>
             </div>
+          </a>
+          <div className="group-23">
+            <div className="frame-8">
+              <div className="mask-group-wrapper">
+                <img
+                  className="mask-group"
+                  alt="Mask group"
+                  src="https://c.animaapp.com/90HVybyf/img/mask-group-4@2x.png"
+                />
+              </div>
+            </div>
           </div>
-          <div class="group-23">
-            
-          </div>
-          <div class="group-24">
+          <a href='#' class="group-24">
             <div class="overlap-7">
               <div class="text-wrapper-18">Starbucks</div>
               <p class="candylicious-is-the">
@@ -72,15 +80,37 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-2.svg" /> */}
+                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-2.svg" />
+                </div>
+              </div>
+            </div>
+          </a>
+          <div className="group-25">
+            <div className="frame-8">
+              <div className="overlap-9">
+                <img
+                  className="mask-group"
+                  alt="Mask group"
+                  src="https://c.animaapp.com/90HVybyf/img/mask-group-3@2x.png"
+                />
+                <div className="frame-9">
+                  <div className="overlap-group-3">
+                    <img
+                      className="mask-group-2"
+                      alt="Mask group"
+                      src="https://c.animaapp.com/90HVybyf/img/mask-group-2@2x.png"
+                    />
+                    <img
+                      className="starbucks"
+                      alt="Starbucks"
+                      src="https://c.animaapp.com/90HVybyf/img/starbucks-corporation-logo-2011-1@2x.png"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="group-25">
-            
-          </div>
-          <div class="group-26">
+          <a href='#' class="group-26">
             <div class="overlap-7">
               <div class="text-wrapper-18">Microsoft Azure</div>
               <p class="candylicious-is-the">
@@ -90,15 +120,28 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-1.svg" /> */}
+                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-1.svg" />
                 </div>
               </div>
             </div>
+          </a>
+          <div className="group-27">
+            <div className="frame-8">
+              <div className="overlap-group-4">
+                <img
+                  className="mask-group"
+                  alt="Mask group"
+                  src="https://c.animaapp.com/90HVybyf/img/mask-group-3@2x.png"
+                />
+                <img
+                  className="microsoft-azure"
+                  alt="Microsoft azure"
+                  src="https://c.animaapp.com/90HVybyf/img/microsoft-azure-active-directory-4kb3-1@2x.png"
+                />
+              </div>
+            </div>
           </div>
-          <div class="group-27">
-            
-          </div>
-          <div class="group-28">
+          <a href='#' class="group-28">
             <div class="overlap-7">
               <div class="text-wrapper-18">Candylicious</div>
               <p class="candylicious-is-the">
@@ -108,14 +151,23 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin.svg" /> */}
+                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin.svg" />
                 </div>
               </div>
             </div>
+          </a>
+          <div className="group-29">
+            <div className="frame-8">
+              <div className="img-wrapper">
+                <img
+                  className="mask-group"
+                  alt="Mask group"
+                  src="https://c.animaapp.com/90HVybyf/img/mask-group@2x.png"
+                />
+              </div>
+            </div>
           </div>
-          <div class="group-29">
-            
-          </div>
+
     </>
   )
 }

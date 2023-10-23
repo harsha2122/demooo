@@ -23,11 +23,12 @@ const page = () => {
                   alt="Calendar day"
                   src="https://c.animaapp.com/uCiIVWHM/img/calendar-day.svg"
                 />
+                <a href='#'>
                 <img
                   className="list"
                   alt="List"
                   src="https://c.animaapp.com/uCiIVWHM/img/list-1.svg"
-                />
+                /></a>
               </div>
               <div className="frame-6">
                 <div className="input">
@@ -56,7 +57,7 @@ const page = () => {
               </div>
             </div>
           </div>
-          <div className="group-23">
+          <a href='#' className="group-23">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>
               <img
@@ -108,7 +109,7 @@ const page = () => {
                     />
                   </div>
                 </div>
-                <div className="frame-11">
+                <a href='#' className="frame-11">
                   <div className="text-wrapper-18">Book Tickets</div>
                   <div className="group-26">
                     <div className="overlap-group-4">
@@ -125,11 +126,11 @@ const page = () => {
                       />
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
-          </div>
-          <div className="group-27">
+          </a>
+          <a href='#' className="group-27">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>
               <img
@@ -181,7 +182,7 @@ const page = () => {
                     />
                   </div>
                 </div>
-                <div className="frame-11">
+                <a href='#' className="frame-11">
                   <div className="text-wrapper-18">Book Tickets</div>
                   <div className="group-26">
                     <div className="overlap-group-4">
@@ -198,11 +199,11 @@ const page = () => {
                       />
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
-          </div>
-          <div className="group-28">
+          </a>
+          <a href='#' className="group-28">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>
               <img
@@ -254,7 +255,7 @@ const page = () => {
                     />
                   </div>
                 </div>
-                <div className="frame-11">
+                <a href='#' className="frame-11">
                   <div className="text-wrapper-18">Book Tickets</div>
                   <div className="group-26">
                     <div className="overlap-group-4">
@@ -271,10 +272,10 @@ const page = () => {
                       />
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
-          </div>
+          </a>
           {/* <div className="group-29">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>

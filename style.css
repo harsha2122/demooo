@@ -4,12 +4,13 @@
     flex-direction: row;
     justify-content: center;
     width: 100%;
+ 
   }
   
   .sign-up .overlap-wrapper {
     background-color: #ffffff;
-    width: 1440px;
-    height: 1024px;
+    width: 100vw;
+    height: 100vh;
   }
   
   .sign-up .overlap {
@@ -19,10 +20,11 @@
   
   .sign-up .component {
     position: absolute;
-    width: 1440px;
-    height: 1024px;
+    width: 100vw;
+    height: 100vh;
     top: 0;
     left: 0;
+    
   }
   
   .sign-up .rectangle {
@@ -403,7 +405,7 @@
   }
   
   .sign-up .rectangle-2 {
-    width: 1440px;
+    width: 100vw;
     height: 94px;
     top: 0;
     background-color: #004c59;
@@ -998,6 +1000,65 @@
     display: block;
   }
 
+
+
+  .dropbtn2 {
+    background: transparent;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 330px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin-top: 8px;
+    margin-left: -100px;
+    font-size: 12px;
+  }
+  
+  .dropdown-content1 a, h1 {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content2 a:hover {background-color: #e1eef0}
+  
+  .dropdown1:hover .dropdown-content2 {
+    display: block;
+  }
+
+
+  .dropdown-btn {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+  }
   
 
   
@@ -1155,16 +1216,6 @@
     width: 206.25px;
   }
   
-  .dashboard .frame-10 {
-    align-items: flex-start;
-    display: inline-flex;
-    flex-direction: column;
-    gap: 2.43px;
-    justify-content: center;
-    left: -1566px;
-    position: absolute;
-    top: -1185px;
-  }
   
   .dashboard .text-wrapper-13 {
     color: #004c59;
@@ -1202,14 +1253,7 @@
     position: absolute;
     top: 79px;
   }
-  
-  .dashboard .vector-8 {
-    height: 12.08px;
-    position: absolute;
-    width: 12.08px;
-    top: -1px;
-    left: -17px;
-  }
+
   
   .dashboard .member-ID {
     color: transparent;
@@ -1351,19 +1395,7 @@
     width: 351.54px;
   }
   
-  .dashboard .text-wrapper-20 {
-    color: #8d8d8d;
-  }
-  
-  .dashboard .frame-13 {
-    align-items: flex-start;
-    display: inline-flex;
-    flex: 0 0 auto;
-    flex-direction: column;
-    gap: 20px;
-    position: relative;
-  }
-  
+
   .dashboard .frame-14 {
     align-items: flex-end;
     display: flex;
@@ -1456,7 +1488,7 @@
     display: flex;
     flex: 0 0 auto;
     flex-wrap: wrap;
-    gap: 1.97px 21px;
+    gap: 7.97px 21px;
     position: relative;
     width: 348.16px;
   }
@@ -1491,10 +1523,10 @@
     align-items: flex-start;
     display: flex;
     flex-direction: column;
-    gap: 13px;
+
     left: 16px;
     position: absolute;
-    top: 78px;
+    top: 60px;
     width: 360px;
   }
   
@@ -1557,17 +1589,10 @@
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
-    top: 0;
+    top: 3px;
     white-space: nowrap;
   }
-  
-  .dashboard .map-pin {
-    height: 6px;
-    left: 0;
-    position: absolute;
-    top: 1px;
-    width: 6px;
-  }
+
   
   .dashboard .frame-21 {
     height: 9.58px;
@@ -1593,7 +1618,7 @@
     height: 9px;
     left: 1px;
     position: absolute;
-    top: 0;
+    top: -7px;
     width: 113px;
   }
   
@@ -1633,28 +1658,46 @@
   
   .dashboard .ellipse-5 {
     background-color: #004c59;
-    border-radius: 5.65px;
-    height: 11px;
+    border-radius: 50%;
+    height: 14px;
     left: 2px;
     position: absolute;
-    top: 2px;
+    top: 3px;
     transform: rotate(43.95deg);
-    width: 11px;
+    width: 14px;
   }
+
+
   
   .dashboard .vector-9 {
-    height: 1px;
-    left: 5px;
+    height: 5px;
+    left: 6px;
     position: absolute;
-    top: 8px;
+    top: 7.5px;
     width: 6px;
   }
   
   .dashboard .vector-10 {
     height: 6px;
-    left: 8px;
+    left: 9px;
     position: absolute;
-    top: 5px;
+    top: 7px;
+    width: 3px;
+  }
+
+  .dashboard .vector-91 {
+    height: 5px;
+    left: 6px;
+    position: absolute;
+    top: 8px;
+    width: 6px;
+  }
+  
+  .dashboard .vector-101 {
+    height: 6px;
+    left: 9px;
+    position: absolute;
+    top: 7.5px;
     width: 3px;
   }
   
@@ -1665,7 +1708,7 @@
     gap: 0px;
     left: 16px;
     position: absolute;
-    top: 213px;
+    top: 195px;
     width: 360px;
   }
   
@@ -1716,7 +1759,7 @@
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
-    top: 20px;
+    top: 10px;
     width: 753px;
   }
   
@@ -1732,7 +1775,7 @@
     gap: 9.96px;
     left: 22px;
     position: absolute;
-    top: 66px;
+    top: 60px;
   }
   
   .dashboard .group-22 {
@@ -1779,7 +1822,7 @@
     display: inline-flex;
     flex: 0 0 auto;
     flex-direction: column;
-    gap: 5px;
+    gap: 0px;
     position: relative;
   }
   
@@ -1790,7 +1833,7 @@
     font-weight: 600;
     letter-spacing: 0;
     line-height: 19.9px;
-    margin-top: -1px;
+    margin-top: 2px;
     position: relative;
     width: 95.51px;
   }
@@ -1834,7 +1877,7 @@
     height: 22.72px;
     letter-spacing: 0;
     line-height: 41.5px;
-    margin-top: -18.43px;
+    margin-top: -15.43px;
     position: relative;
     text-align: center;
     white-space: nowrap;
@@ -1859,7 +1902,7 @@
   }
   
   .dashboard .vector-11 {
-    height: 1px;
+    height: 20px;
     left: 7px;
     position: absolute;
     top: 10px;
@@ -1868,7 +1911,23 @@
   
   .dashboard .vector-12 {
     height: 8px;
-    left: 11px;
+    left: 10px;
+    position: absolute;
+    top: 7px;
+    width: 4px;
+  }
+
+  .dashboard .vector-111 {
+    height: 1px;
+    left: 7px;
+    position: absolute;
+    top: 10px;
+    width: 8px;
+  }
+  
+  .dashboard .vector-121 {
+    height: 8px;
+    left: 10px;
     position: absolute;
     top: 7px;
     width: 4px;
@@ -2081,7 +2140,7 @@
   flex-direction: row;
   gap: 2.43px;
   justify-content: center;
-  left: -425px;
+  left: -423px;
   position: absolute;
   top: 0px;
 }
@@ -2124,7 +2183,9 @@
 
 .dashboard .vector-8 {
   height: 12.08px;
-  position: relative;
+  position: absolute;
+  top: -1px;
+  left: -17px;
   width: 12.08px;
 }
 
@@ -2277,8 +2338,9 @@
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 20px;
-  position: relative;
+  gap: 36px;
+  position: absolute;
+  top: 42px;
 }
 
 .dashboard .frame-14 {
@@ -2368,15 +2430,6 @@
   width: 341.38px;
 }
 
-.dashboard .frame-17 {
-  align-items: flex-end;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 1.97px 21px;
-  position: relative;
-  width: 348.16px;
-}
 
 .dashboard .text-wrapper-23 {
   color: #343434;
@@ -2404,16 +2457,6 @@
   width: 392px;
 }
 
-.dashboard .frame-18 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 0px;
-  left: 16px;
-  position: absolute;
-  top: 78px;
-  width: 360px;
-}
 
 .dashboard .text-wrapper-24 {
   color: #343434;
@@ -2465,25 +2508,13 @@
   width: 110.7px;
 }
 
-.dashboard .text-wrapper-26 {
-  color: #004c59;
-  font-family: "SF Pro-Medium", Helvetica;
-  font-size: 7.6px;
-  font-weight: 500;
-  left: 11px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-}
 
 .dashboard .map-pin {
-  height: 6px;
+  height: 10px;
   left: 0;
   position: absolute;
-  top: 1px;
-  width: 6px;
+  top: 2px;
+  width: 10px;
 }
 
 .dashboard .frame-21 {
@@ -2506,13 +2537,6 @@
   width: 8px !important;
 }
 
-.dashboard .group-20 {
-  height: 9px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 113px;
-}
 
 .dashboard .frame-22 {
   align-items: center;
@@ -2529,7 +2553,7 @@
   height: 16.49px;
   letter-spacing: 0;
   line-height: 30.2px;
-  margin-top: -1.03px;
+  margin-top: -8.03px;
   position: relative;
   text-align: center;
   white-space: nowrap;
@@ -2548,32 +2572,7 @@
   width: 16px;
 }
 
-.dashboard .ellipse-5 {
-  background-color: #004c59;
-  border-radius: 5.65px;
-  height: 11px;
-  left: 2px;
-  position: absolute;
-  top: 2px;
-  transform: rotate(43.95deg);
-  width: 11px;
-}
 
-.dashboard .vector-9 {
-  height: 1px;
-  left: 5px;
-  position: absolute;
-  top: 8px;
-  width: 6px;
-}
-
-.dashboard .vector-10 {
-  height: 6px;
-  left: 8px;
-  position: absolute;
-  top: 5px;
-  width: 3px;
-}
 
 
 
@@ -2599,7 +2598,7 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 295px;
+  top: 280px;
   width: 352px;
 }
 
@@ -2615,18 +2614,6 @@
   width: 796px;
 }
 
-.dashboard .top-opportunities {
-  color: transparent;
-  font-family: "SF Pro-Regular", Helvetica;
-  font-size: 12.2px;
-  font-weight: 400;
-  left: 21px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 23px;
-  width: 753px;
-}
 
 .dashboard .text-wrapper-29 {
   color: #004c59;
@@ -2634,14 +2621,6 @@
   font-weight: 500;
 }
 
-.dashboard .frame-24 {
-  align-items: center;
-  display: inline-flex;
-  gap: 9.96px;
-  left: 22px;
-  position: absolute;
-  top: 66px;
-}
 
 .dashboard .group-22 {
   height: 62.16px;
@@ -2682,26 +2661,7 @@
   width: 63px;
 }
 
-.dashboard .frame-26 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 5px;
-  position: relative;
-}
 
-.dashboard .text-wrapper-30 {
-  color: #004c59;
-  font-family: "Inter", Helvetica;
-  font-size: 14.2px;
-  font-weight: 600;
-  letter-spacing: 0;
-  line-height: 19.9px;
-  margin-top: -1px;
-  position: relative;
-  width: 95.51px;
-}
 
 .dashboard .candylicious-is-the {
   color: #000000;
@@ -2734,20 +2694,6 @@
   width: fit-content;
 }
 
-.dashboard .text-wrapper-32 {
-  color: #004c59;
-  font-family: "Helvetica Neue-Light", Helvetica;
-  font-size: 12.8px;
-  font-weight: 300;
-  height: 22.72px;
-  letter-spacing: 0;
-  line-height: 41.5px;
-  margin-top: -1.43px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: 78.1px;
-}
 
 .dashboard .div-2 {
   height: 22px;
@@ -2755,16 +2701,6 @@
   width: 22px;
 }
 
-.dashboard .ellipse-6 {
-  background-color: #004c59;
-  border-radius: 7.78px;
-  height: 16px;
-  left: 3px;
-  position: absolute;
-  top: 3px;
-  transform: rotate(43.95deg);
-  width: 16px;
-}
 
 .dashboard .vector-11 {
   height: 1px;

@@ -1,6 +1,7 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import '../style.css'
+import script from '../script';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -43,6 +44,7 @@ export default function RootLayout({ children }) {
                     <a class="text-wrapper-3">Opportunities</a>
                     <a class="text-wrapper-4">Rewards</a>
                   </div>
+                  
                 </div>
                 <div class="div-wrapper">
                   <div class="frame-3">
@@ -96,7 +98,7 @@ export default function RootLayout({ children }) {
                 <div class="group-11">
                   <div class="frame-5">
                     <img class="img-2" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-linear-setting-2-2.svg" />
-                    <a href="/Pages/Eventbook" class="text-wrapper-6">Settings</a>
+                    <a href="#" class="text-wrapper-6">Settings</a>
                   </div>
                 </div>
                 <img class="vector-8" src="https://c.animaapp.com/DC1Sd5sj/img/vector-14-1.svg" />
@@ -156,6 +158,7 @@ export default function RootLayout({ children }) {
           </div>
           </div>
           </div>
+            
       </body>
     </html>
   )
