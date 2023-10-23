@@ -5,7 +5,7 @@ const page = () => {
   return (
     <>
         <div class="frame-6">
-            <a href='/Dashboard' class="group-17">
+            <a href='/' class="group-17">
               <div class="overlap-group-3">
                 <img class="vector-9" src="https://c.animaapp.com/Nprxwvsv/img/vector-1.svg" />
                 <img class="vector-10" src="https://c.animaapp.com/Nprxwvsv/img/vector.svg" />

@@ -6,7 +6,7 @@ const dashboard = () => {
     <>
       <div className="dashboard">
       <div className="overlap-group-wrapper">
-        <div className="overlap-3">
+
           <div className="headlines" />
           <div className="statistics-details">
             <div className="ellipse-wrapper">
@@ -16,7 +16,7 @@ const dashboard = () => {
               <div className="rectangle-wrapper">
                 <div className="rectangle-3" />
               </div>
-              <a href='/Addo' className="frame-7">
+              <a href='/Pages/Addo' className="frame-7">
                 <img className="group-17" alt="Group" src="https://c.animaapp.com/KyTcw1ef/img/group-39908@2x.png" />
                 <div className="text-wrapper-12">Add Opportunities</div>
               </a>
@@ -288,7 +288,7 @@ const dashboard = () => {
           </div>
         </div>
       </div>
-    </div>
+   
     </>
   )
 }

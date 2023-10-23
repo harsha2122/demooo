@@ -1,5 +1,5 @@
 import React from 'react'
-import './evs.css'
+import './evsingle.css'
 
 const page = () => {
   return (

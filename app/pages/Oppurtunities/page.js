@@ -41,7 +41,7 @@ const oppur = () => {
               <img class="other" src="https://c.animaapp.com/Dp0M8icw/img/other-1@2x.png" />
             </div>
           </div>
-          <a href='/Addo' class="group-20">
+          <a href='/Pages/Addo' class="group-20">
             <div class="overlap-6"><div class="text-wrapper-17">Add Opportunity</div></div>
           </a>
           <div class="group-21">
@@ -54,17 +54,13 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-3.svg" />
+                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-3.svg" /> */}
                 </div>
               </div>
             </div>
           </div>
           <div class="group-23">
-            <div class="frame-8">
-              <div class="mask-group-wrapper">
-                <img class="mask-group" src="https://c.animaapp.com/Dp0M8icw/img/mask-group-4@2x.png" />
-              </div>
-            </div>
+            
           </div>
           <div class="group-24">
             <div class="overlap-7">
@@ -76,26 +72,13 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-2.svg" />
+                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-2.svg" /> */}
                 </div>
               </div>
             </div>
           </div>
           <div class="group-25">
-            <div class="frame-8">
-              <div class="overlap-8">
-                <img class="mask-group" src="https://c.animaapp.com/Dp0M8icw/img/mask-group-3@2x.png" />
-                <div class="frame-9">
-                  <div class="overlap-group-3">
-                    <img class="mask-group-2" src="https://c.animaapp.com/Dp0M8icw/img/mask-group-2@2x.png" />
-                    <img
-                      class="starbucks"
-                      src="https://c.animaapp.com/Dp0M8icw/img/starbucks-corporation-logo-2011-1@2x.png"
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
+            
           </div>
           <div class="group-26">
             <div class="overlap-7">
@@ -107,21 +90,13 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-1.svg" />
+                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin-1.svg" /> */}
                 </div>
               </div>
             </div>
           </div>
           <div class="group-27">
-            <div class="frame-8">
-              <div class="overlap-group-4">
-                <img class="mask-group" src="https://c.animaapp.com/Dp0M8icw/img/mask-group-3@2x.png" />
-                <img
-                  class="microsoft-azure"
-                  src="https://c.animaapp.com/Dp0M8icw/img/microsoft-azure-active-directory-4kb3-1@2x.png"
-                />
-              </div>
-            </div>
+            
           </div>
           <div class="group-28">
             <div class="overlap-7">
@@ -133,17 +108,13 @@ const oppur = () => {
               <div class="frame-7">
                 <div class="group-22">
                   <div class="text-wrapper-19">Dubai Mall, Dubai</div>
-                  <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin.svg" />
+                  {/* <img class="map-pin" src="https://c.animaapp.com/Dp0M8icw/img/map-pin.svg" /> */}
                 </div>
               </div>
             </div>
           </div>
           <div class="group-29">
-            <div class="frame-8">
-              <div class="img-wrapper">
-                <img class="mask-group" src="https://c.animaapp.com/Dp0M8icw/img/mask-group@2x.png" />
-              </div>
-            </div>
+            
           </div>
     </>
   )

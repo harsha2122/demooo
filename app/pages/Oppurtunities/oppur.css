@@ -422,26 +422,7 @@
     border-radius: 6px;
   }
   
-  .sign-up .group-13 {
-    position: relative;
-    width: 161px;
-    height: 22px;
-    top: 10px;
-    left: 17px;
-  }
-  
-  .sign-up .text-wrapper-9 {
-    width: 120px;
-    top: 3px;
-    left: 38px;
-    font-family: "Inter", Helvetica;
-    color: #787486;
-    font-size: 14px;
-    position: absolute;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: normal;
-  }
+
   
   .sign-up .group-14 {
     position: absolute;
@@ -503,8 +484,8 @@
   .sign-up .text-wrapper-10 {
     position: absolute;
     height: 17px;
-    top: 0;
-    left: 18px;
+    top: 4px;
+    left: 17px;
     font-family: "Poppins", Helvetica;
     font-weight: 700;
     color: #ffffff;

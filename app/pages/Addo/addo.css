@@ -432,8 +432,8 @@
   
   .sign-up .text-wrapper-9 {
     position: absolute;
-    width: 120px;
-    top: 3px;
+
+    top: 4px;
     left: 38px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
@@ -503,8 +503,8 @@
   .sign-up .text-wrapper-10 {
     position: absolute;
     height: 17px;
-    top: 0;
-    left: 18px;
+    top: 4px;
+    left: 17px;
     font-family: "Poppins", Helvetica;
     font-weight: 700;
     color: #ffffff;

@@ -1,0 +1,724 @@
+.sign-up {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+
+  
+  .sign-up .overlap-3 {
+    height: 1024px;
+    position: relative;
+  }
+  
+  .sign-up .component-1 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .sign-up .icon-instance-node-3 {
+    height: 22px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 22px !important;
+  }
+  
+  .sign-up .vuesax-outline-arrow-down-3 {
+    height: 21.18px !important;
+    position: relative !important;
+    width: 21.18px !important;
+  }
+  
+  .sign-up .vuesax-linear-setting-2-2 {
+    height: 22.36px !important;
+    position: relative !important;
+    width: 22.36px !important;
+  }
+  
+  .sign-up .vuesax-linear-notification-2 {
+    height: 26px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 5px !important;
+    width: 26px !important;
+  }
+  
+  .sign-up .vuesax-outline-arrow-down-4 {
+    height: 23px !important;
+    left: 124px !important;
+    position: absolute !important;
+    top: 1px !important;
+    width: 23px !important;
+  }
+  
+  .sign-up .vuesax-linear-messages-3-2 {
+    height: 26px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 10px !important;
+    width: 26px !important;
+  }
+  
+  .sign-up .ellipse-4 {
+    height: 38px;
+    left: 1365px;
+    object-fit: cover;
+    position: absolute;
+    top: 370px;
+    width: 38px;
+  }
+  
+  .sign-up .group-17 {
+    background-color: #ffffff;
+    border-radius: 6px;
+    height: 44px;
+    left: 289px;
+    position: absolute;
+    top: 25px;
+    width: 808px;
+  }
+  
+  .sign-up .group-18 {
+    height: 22px;
+    left: 17px;
+    position: relative;
+    top: 10px;
+    width: 161px;
+  }
+  
+  .sign-up .text-wrapper-12 {
+    color: #787486;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+    width: 120px;
+  }
+  
+  .sign-up .group-19 {
+    height: 27px;
+    left: 298px;
+    position: absolute;
+    top: 130px;
+    width: 1092px;
+  }
+  
+  .sign-up .group-20 {
+    height: 27px;
+    position: relative;
+    width: 1094px;
+  }
+  
+  .sign-up .text-wrapper-13 {
+    color: #050505;
+    font-family: "Inter", Helvetica;
+    font-size: 27px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 201px;
+  }
+  
+  .sign-up .apps-sort {
+    height: 24px;
+    left: 1068px;
+    position: absolute;
+    top: 3px;
+    width: 24px;
+  }
+  
+  .sign-up .input-wrapper {
+    align-items: center;
+    display: inline-flex;
+    gap: 13px;
+    left: 1028px;
+    position: absolute;
+    top: 127px;
+  }
+  
+  .sign-up .input {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: #c0c1c2;
+    border-radius: 6.1px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    overflow: hidden;
+    padding: 13px 56px 13px 14px;
+    position: relative;
+  }
+  
+  .sign-up .icons-left {
+    height: 15.92px;
+    position: relative;
+    width: 15.92px;
+  }
+  
+  .sign-up .user-interface {
+    height: 16px;
+    overflow: hidden;
+    position: relative;
+    width: 16px;
+  }
+  
+  .sign-up .round {
+    height: 13px;
+    left: 2px;
+    position: absolute;
+    top: 3px;
+    width: 13px;
+  }
+  
+  .sign-up .content {
+    height: 15.92px;
+    position: relative;
+    width: 238.87px;
+  }
+  
+  .sign-up .search-messages {
+    background: transparent;
+    border: none;
+    color: #8d939a;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 11.7px;
+    font-weight: 400;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 0;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .line {
+    height: 1px;
+    left: 254px;
+    position: absolute;
+    top: 210px;
+    width: 1186px;
+  }
+  
+  .sign-up .line-2 {
+    height: 813px;
+    left: 597px;
+    position: absolute;
+    top: 211px;
+    width: 1px;
+  }
+  
+  .sign-up .rectangle-3 {
+    background: linear-gradient(
+      180deg,
+      rgb(229.5, 251.28, 255) 0%,
+      rgba(227.37, 250.96, 255, 0) 100%
+    );
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-color: #b3b3b3;
+    height: 89px;
+    left: 254px;
+    position: absolute;
+    top: 211px;
+    width: 343px;
+  }
+  
+  .sign-up .ellipse-5 {
+    height: 46px;
+    left: 271px;
+    object-fit: cover;
+    position: absolute;
+    top: 234px;
+    width: 46px;
+  }
+  
+  .sign-up .ellipse-6 {
+    height: 34px;
+    left: 625px;
+    object-fit: cover;
+    position: absolute;
+    top: 258px;
+    width: 34px;
+  }
+  
+  .sign-up .rectangle-4 {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-color: #b3b3b3;
+    height: 89px;
+    left: 254px;
+    position: absolute;
+    top: 300px;
+    width: 343px;
+  }
+  
+  .sign-up .rectangle-5 {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-color: #b3b3b3;
+    height: 89px;
+    left: 254px;
+    position: absolute;
+    top: 389px;
+    width: 343px;
+  }
+  
+  .sign-up .rectangle-6 {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-color: #b3b3b3;
+    height: 89px;
+    left: 254px;
+    position: absolute;
+    top: 478px;
+    width: 343px;
+  }
+  
+  .sign-up .rectangle-7 {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-color: #b3b3b3;
+    height: 89px;
+    left: 254px;
+    position: absolute;
+    top: 569px;
+    width: 343px;
+  }
+  
+  .sign-up .rectangle-8 {
+    background-color: #fafafb;
+    height: 142px;
+    left: 598px;
+    position: absolute;
+    top: 882px;
+    width: 842px;
+  }
+  
+  .sign-up .rectangle-9 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #dbdbdb;
+    border-radius: 57px;
+    height: 61px;
+    left: 622px;
+    position: absolute;
+    top: 912px;
+    width: 782px;
+  }
+  
+  .sign-up .microphone-svgrepo {
+    height: 26px;
+    left: 644px;
+    position: absolute;
+    top: 929px;
+    width: 26px;
+  }
+  
+  .sign-up .frame-6 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 11px;
+    left: 1311px;
+    position: absolute;
+    top: 929px;
+  }
+  
+  .sign-up .image-svgrepo-com {
+    height: 26px;
+    position: relative;
+    width: 26px;
+  }
+  
+  .sign-up .iconly-6 {
+    height: 23.89px !important;
+    position: relative !important;
+    width: 23.89px !important;
+  }
+  
+  .sign-up .line-3 {
+    height: 89px;
+    left: 597px;
+    object-fit: cover;
+    position: absolute;
+    top: 211px;
+    width: 1px;
+  }
+  
+  .sign-up .ellipse-7 {
+    height: 49px;
+    left: 268px;
+    object-fit: cover;
+    position: absolute;
+    top: 321px;
+    width: 49px;
+  }
+  
+  .sign-up .text-wrapper-14 {
+    color: #111111;
+    font-family: "Inter", Helvetica;
+    font-size: 15.1px;
+    font-weight: 400;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 313px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .text-wrapper-15 {
+    color: #808080;
+    font-family: "Inter", Helvetica;
+    font-size: 12.4px;
+    font-weight: 400;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 338px;
+  }
+  
+  .sign-up .text-wrapper-16 {
+    color: #7a7a7a;
+    font-family: "SF Pro-Light", Helvetica;
+    font-size: 8px;
+    font-weight: 300;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    position: absolute;
+    top: 360px;
+    white-space: nowrap;
+    width: 82px;
+  }
+  
+  .sign-up .text-wrapper-17 {
+    color: #111111;
+    font-family: "Inter", Helvetica;
+    font-size: 15.1px;
+    font-weight: 400;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 225px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .text-wrapper-18 {
+    color: #2f2f2f;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 670px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 257px;
+  }
+  
+  .sign-up .text-wrapper-19 {
+    color: #808080;
+    font-family: "Inter", Helvetica;
+    font-size: 12.4px;
+    font-weight: 400;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 250px;
+  }
+  
+  .sign-up .text-wrapper-20 {
+    color: #7a7a7a;
+    font-family: "SF Pro-Light", Helvetica;
+    font-size: 8px;
+    font-weight: 300;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    position: absolute;
+    top: 272px;
+    white-space: nowrap;
+    width: 82px;
+  }
+  
+  .sign-up .ellipse-8 {
+    height: 49px;
+    left: 268px;
+    object-fit: cover;
+    position: absolute;
+    top: 411px;
+    width: 49px;
+  }
+  
+  .sign-up .text-wrapper-21 {
+    color: #111111;
+    font-family: "Inter", Helvetica;
+    font-size: 15.1px;
+    font-weight: 400;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 403px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .text-wrapper-22 {
+    color: #808080;
+    font-family: "Inter", Helvetica;
+    font-size: 12.4px;
+    font-weight: 400;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 428px;
+  }
+  
+  .sign-up .text-wrapper-23 {
+    color: #7a7a7a;
+    font-family: "SF Pro-Light", Helvetica;
+    font-size: 8px;
+    font-weight: 300;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: 13.5px;
+    position: absolute;
+    top: 450px;
+    white-space: nowrap;
+    width: 82px;
+  }
+  
+  .sign-up .rectangle-10 {
+    background-color: #f6f6f6;
+    border-radius: 8px 7px 0px 0px;
+    height: 39px;
+    left: 670px;
+    position: absolute;
+    top: 284px;
+    transform: rotate(-180deg);
+    width: 323px;
+  }
+  
+  .sign-up .text-wrapper-24 {
+    color: #2f2f2f;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 1266px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 365px;
+  }
+  
+  .sign-up .rectangle-11 {
+    background-color: #e3faff;
+    border-radius: 8px 7px 0px 0px;
+    height: 39px;
+    left: 1007px;
+    position: absolute;
+    top: 388px;
+    transform: rotate(-180deg);
+    width: 340px;
+  }
+  
+  .sign-up .rectangle-12 {
+    background-color: #e3faff;
+    border-radius: 8px 7px 0px 0px;
+    height: 63px;
+    left: 856px;
+    position: absolute;
+    top: 442px;
+    transform: rotate(-180deg);
+    width: 491px;
+  }
+  
+  .sign-up .ndustry-lorem-ipsum {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 11.5px;
+    font-weight: 400;
+    left: 682px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 295px;
+  }
+  
+  .sign-up .ellipse-9 {
+    height: 34px;
+    left: 625px;
+    object-fit: cover;
+    position: absolute;
+    top: 555px;
+    width: 34px;
+  }
+  
+  .sign-up .text-wrapper-25 {
+    color: #2f2f2f;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 670px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+  }
+  
+  .sign-up .rectangle-13 {
+    background-color: #f6f6f6;
+    border-radius: 8px 7px 0px 0px;
+    height: 39px;
+    left: 670px;
+    position: absolute;
+    top: 581px;
+    transform: rotate(-180deg);
+    width: 323px;
+  }
+  
+  .sign-up .p {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 11.5px;
+    font-weight: 400;
+    left: 682px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 592px;
+  }
+  
+  .sign-up .ellipse-10 {
+    height: 34px;
+    left: 625px;
+    object-fit: cover;
+    position: absolute;
+    top: 759px;
+    width: 34px;
+  }
+  
+  .sign-up .text-wrapper-26 {
+    color: #2f2f2f;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 670px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 758px;
+  }
+  
+  .sign-up .rectangle-14 {
+    background-color: #f6f6f6;
+    border-radius: 8px 7px 0px 0px;
+    height: 39px;
+    left: 670px;
+    position: absolute;
+    top: 785px;
+    transform: rotate(-180deg);
+    width: 323px;
+  }
+  
+  .sign-up .ndustry-lorem-ipsum-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 11.5px;
+    font-weight: 400;
+    left: 682px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 796px;
+  }
+  
+  .sign-up .ndustry-lorem-ipsum-3 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 11.5px;
+    font-weight: 400;
+    left: 1033px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 399px;
+  }
+  
+  .sign-up .ellipse-11 {
+    height: 38px;
+    left: 1365px;
+    object-fit: cover;
+    position: absolute;
+    top: 655px;
+    width: 38px;
+  }
+  
+  .sign-up .text-wrapper-27 {
+    color: #2f2f2f;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 1266px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 650px;
+  }
+  
+  .sign-up .rectangle-15 {
+    background-color: #e3faff;
+    border-radius: 8px 7px 0px 0px;
+    height: 39px;
+    left: 1007px;
+    position: absolute;
+    top: 673px;
+    transform: rotate(-180deg);
+    width: 340px;
+  }
+  
+  .sign-up .ndustry-lorem-ipsum-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 11.5px;
+    font-weight: 400;
+    left: 1033px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 684px;
+  }
+  
+  .sign-up .lorem-ipsum-has-been {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 11.5px;
+    font-weight: 400;
+    left: 865px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 456px;
+    width: 473px;
+  }
+  
