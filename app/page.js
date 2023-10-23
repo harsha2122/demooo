@@ -1,5 +1,5 @@
 import React from 'react'
-import '../app/Pages/Dashboard/dash.css'
+import '../style.css'
 
 
 const page = () => {

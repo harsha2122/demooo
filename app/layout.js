@@ -147,7 +147,7 @@ export default function RootLayout({ children }) {
                   <a href="#">FAQ</a>
                   </div>
                 </div>
-                <a href='/Pages/Messages'><button><img class="vuesax-linear-2" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-linear-messages-3-2.svg" /></button></a>
+                <a href='/Pages/Messages'><img class="vuesax-linear-2" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-linear-messages-3-2.svg" /></a>
               </div>
               <img class="ADCCI-LL" src="https://c.animaapp.com/DC1Sd5sj/img/adcci-ll-2-2-1@2x.png" />
             </div>
