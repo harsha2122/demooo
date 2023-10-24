@@ -1,7 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import '../style.css'
-import script from '../script';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -143,7 +142,7 @@ export default function RootLayout({ children }) {
                   <a href="#">Change Language</a>
                   <a href="#">FAQ</a>
                   <a href="#">Settings</a>
-                  <a href='/Pages/Signup' class="lg-out"><img src='https://imgs.search.brave.com/CVkPv8ns5hlK9lc8NxDTkjIG4JmU20qmPnZvhkJq04U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/ZXMucHJvL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L2lj/b25lLWRlY29ubmV4/aW9uLWRlY29ubmV4/aW9uLXJvdWdlLnBu/Zw' width="16px" height="16px" class="lgout-img" />Logout</a>
+                  <a href='#' class="lg-out"><img src='https://imgs.search.brave.com/CVkPv8ns5hlK9lc8NxDTkjIG4JmU20qmPnZvhkJq04U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/ZXMucHJvL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L2lj/b25lLWRlY29ubmV4/aW9uLWRlY29ubmV4/aW9uLXJvdWdlLnBu/Zw' width="16px" height="16px" class="lgout-img" />Logout</a>
                   </div>
                 </div>
                 <a href='/Pages/Messages'><img class="vuesax-linear-2" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-linear-messages-3-2.svg" /></a>
@@ -153,10 +152,10 @@ export default function RootLayout({ children }) {
             
           </div>
           
-          <div class='child-content'>{children}</div>
+          <div>{children}</div>
           <footer>
             <div class="container">
-              <p>&copy; 2023 My Portfolio. All rights reserved.</p>
+              <p>&copy; 2023 Abu Dhabi Government. All rights reserved.</p>
             </div>
           </footer>
           </div>
