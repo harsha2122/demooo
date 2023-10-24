@@ -1,0 +1,213 @@
+.sign-up {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sign-up .div {
+    background-color: #ffffff;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .sign-up .overlap {
+    height: 45px;
+    left: 909px;
+    position: absolute;
+    top: 419px;
+    width: 346px;
+  }
+  
+  .sign-up .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 21px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .sign-up .rectangle {
+    border: 0.5px solid;
+    border-color: #91afb5;
+    border-radius: 4px;
+    height: 45px;
+    position: relative;
+    width: 346px;
+  }
+  
+  .sign-up .line {
+    height: 45px;
+    left: 104px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .sign-up .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 22px;
+    left: 15px;
+    position: absolute;
+    top: 13px;
+  }
+  
+  .sign-up .united-arab-emirates {
+    height: 20px;
+    object-fit: cover;
+    position: relative;
+    width: 20px;
+  }
+  
+  .sign-up .text-wrapper {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .sign-up .text-wrapper-2 {
+    color: #898989;
+    font-family: "SF Pro-Light", Helvetica;
+    font-size: 13px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .sign-up .text-wrapper-3 {
+    color: #004c59;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 1192px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 545px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .p {
+    color: #004c59;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 975px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 656px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .text-wrapper-4 {
+    color: #6a6a6a;
+    font-family: "SF Pro-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 1031px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 756px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .text-wrapper-5 {
+    color: #6a6a6a;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 960px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 722px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .overlap-group {
+    border: 0.5px solid;
+    border-color: #91afb5;
+    border-radius: 4px;
+    height: 45px;
+    left: 908px;
+    position: absolute;
+    top: 485px;
+    width: 347px;
+  }
+  
+  .sign-up .text-wrapper-6 {
+    color: #898989;
+    font-family: "SF Pro-Light", Helvetica;
+    font-size: 13px;
+    font-weight: 300;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+  }
+  
+  .sign-up .div-wrapper {
+    align-items: center;
+    background-color: #004c59;
+    border-radius: 4.8px;
+    display: flex;
+    gap: 9.61px;
+    height: 48px;
+    justify-content: center;
+    left: 909px;
+    overflow: hidden;
+    padding: 10.57px 147px;
+    position: absolute;
+    top: 583px;
+    width: 346px;
+  }
+  
+  .sign-up .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "SF Pro-Regular", Helvetica;
+    font-size: 19.2px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .sign-up .abudhabichamber {
+    height: 123px;
+    left: 985px;
+    object-fit: cover;
+    position: absolute;
+    top: 249px;
+    width: 198px;
+  }
+  
+  .sign-up .arabic-business-team {
+    height: 838px;
+    left: 53px;
+    object-fit: cover;
+    position: absolute;
+    top: 88px;
+    width: 667px;
+  }
+  

@@ -44,7 +44,7 @@ const oppur = () => {
           <a href='/Pages/Addo' class="group-20">
             <div class="overlap-6"><div class="text-wrapper-17">Add Opportunity</div></div>
           </a>
-          <a href='#' class="group-21">
+          <a href='../../Pages/Oppusing' class="group-21">
             <div class="overlap-7">
               <div class="text-wrapper-18">Candylicious</div>
               <p class="candylicious-is-the">
@@ -70,7 +70,7 @@ const oppur = () => {
               </div>
             </div>
           </div>
-          <a href='#' class="group-24">
+          <a href='../../Pages/Oppusing' class="group-24">
             <div class="overlap-7">
               <div class="text-wrapper-18">Starbucks</div>
               <p class="candylicious-is-the">
@@ -110,7 +110,7 @@ const oppur = () => {
               </div>
             </div>
           </div>
-          <a href='#' class="group-26">
+          <a href='../../Pages/Oppusing' class="group-26">
             <div class="overlap-7">
               <div class="text-wrapper-18">Microsoft Azure</div>
               <p class="candylicious-is-the">
@@ -141,7 +141,7 @@ const oppur = () => {
               </div>
             </div>
           </div>
-          <a href='#' class="group-28">
+          <a href='../../Pages/Oppusing' class="group-28">
             <div class="overlap-7">
               <div class="text-wrapper-18">Candylicious</div>
               <p class="candylicious-is-the">

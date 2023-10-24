@@ -95,13 +95,8 @@ export default function RootLayout({ children }) {
                   </div>
                 </div>
                 <img class="vector-7" src="https://c.animaapp.com/DC1Sd5sj/img/vector-8-1.svg" />
-                <div class="group-11">
-                  <div class="frame-5">
-                    <img class="img-2" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-linear-setting-2-2.svg" />
-                    <a href="#" class="text-wrapper-6">Settings</a>
-                  </div>
-                </div>
-                <img class="vector-8" src="https://c.animaapp.com/DC1Sd5sj/img/vector-14-1.svg" />
+            
+                
                 <a href="/Pages/Uevent" class="text-wrapper-7">Upcoming Events</a>
                 <a href="/Pages/Eventsingle" class="text-wrapper-8">Event Booked</a>
               </div>
@@ -144,19 +139,30 @@ export default function RootLayout({ children }) {
                   </button>
                   <img class="ellipse-3" src="https://c.animaapp.com/DC1Sd5sj/img/ellipse-1@2x.png" />
                   <div class="dropdown-content">
-                  <a href="#">My Profile</a>
+                  <a href="/Pages/Account">My Profile</a>
                   <a href="#">Change Language</a>
                   <a href="#">FAQ</a>
+                  <a href="#">Settings</a>
+                  <a href='/Pages/Signup' class="lg-out"><img src='https://imgs.search.brave.com/CVkPv8ns5hlK9lc8NxDTkjIG4JmU20qmPnZvhkJq04U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/ZXMucHJvL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L2lj/b25lLWRlY29ubmV4/aW9uLWRlY29ubmV4/aW9uLXJvdWdlLnBu/Zw' width="16px" height="16px" class="lgout-img" />Logout</a>
                   </div>
                 </div>
                 <a href='/Pages/Messages'><img class="vuesax-linear-2" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-linear-messages-3-2.svg" /></a>
               </div>
               <img class="ADCCI-LL" src="https://c.animaapp.com/DC1Sd5sj/img/adcci-ll-2-2-1@2x.png" />
             </div>
+            
           </div>
-          {children}
+          
+          <div class='child-content'>{children}</div>
+          <footer>
+            <div class="container">
+              <p>&copy; 2023 My Portfolio. All rights reserved.</p>
+            </div>
+          </footer>
           </div>
+          
           </div>
+          
           </div>
             
       </body>

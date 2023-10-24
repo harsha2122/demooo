@@ -30,9 +30,9 @@ const page = () => {
                 src="https://c.animaapp.com/hCbyYsH2/img/microsoft-office-logo--2019-present--1@2x.png"
               />
               <div class="text-wrapper-13">Microsoft Office</div>
-              <div class="group-20">
+              <a href='#' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
-              </div>
+              </a>
               <div class="ellipse-4"></div>
               <p class="element-OFF">
                 <span class="span">40% <br /></span> <span class="text-wrapper-15">OFF</span>
@@ -47,9 +47,9 @@ const page = () => {
               <p class="element-OFF">
                 <span class="span">10% <br /></span> <span class="text-wrapper-15">OFF</span>
               </p>
-              <div class="group-20">
+              <a href='#' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
-              </div>
+              </a>
             </div>
           </div>
           <img class="images" src="https://c.animaapp.com/hCbyYsH2/img/images-2-3@4x.png" />
@@ -57,9 +57,9 @@ const page = () => {
             <div class="overlap-3">
               <div class="rectangle-3"></div>
               <div class="text-wrapper-13">Envato Elements</div>
-              <div class="group-20">
+              <a href='#' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
-              </div>
+              </a>
               <div class="ellipse-4"></div>
               <p class="element-AED-OFF">
                 <span class="span">99 AED <br /></span> <span class="text-wrapper-15">OFF</span>
@@ -74,9 +74,9 @@ const page = () => {
               <p class="element-OFF">
                 <span class="span">70% <br /></span> <span class="text-wrapper-15">OFF</span>
               </p>
-              <div class="group-20">
+              <a href='#' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
-              </div>
+              </a>
             </div>
           </div>
           <div class="mask-group-wrapper">

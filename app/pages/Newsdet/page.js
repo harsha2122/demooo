@@ -16,7 +16,7 @@ const page = () => {
                 <img class="vector-10" src="https://c.animaapp.com/ovgC9W9Y/img/vector.svg" />
               </div>
             </div>
-            <div class="text-wrapper-12">Go back</div>
+            <a href='../../Pages/News' class="text-wrapper-12">Go back</a>
           </div>
           <div class="frame-7"><div class="text-wrapper-13">Abu Dhabi Chamber</div></div>
           <div class="frame-8"><div class="text-wrapper-14">14 June 2023</div></div>

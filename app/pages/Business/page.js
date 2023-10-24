@@ -26,14 +26,14 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-7@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <img
@@ -70,14 +70,14 @@ const page = () => {
                   />
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-6@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <div className="group-23">
@@ -109,14 +109,14 @@ const page = () => {
                   />
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-5@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <div className="group-24">
@@ -148,14 +148,14 @@ const page = () => {
                   />
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-5@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <div className="group-25">
@@ -180,14 +180,14 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-3@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <img
@@ -224,14 +224,14 @@ const page = () => {
                   />
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-6@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <div className="group-27">
@@ -263,14 +263,14 @@ const page = () => {
                   />
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-5@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <div className="group-28">
@@ -302,14 +302,14 @@ const page = () => {
                   />
                 </div>
               </div>
-              <div className="frame-7">
+              <a href="#" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
                   alt="Group"
                   src="https://c.animaapp.com/GjsAQgqj/img/group-174-5@4x.png"
                 />
-              </div>
+              </a>
             </div>
           </div>
           <div className="frame-8">

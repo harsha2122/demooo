@@ -8,13 +8,13 @@
   
   .sign-up .overlap-wrapper {
     background-color: #ffffff;
-    width: 1440px;
-    height: 1339px;
+    width: 100vw;
+    height: 100vh;
   }
   
   .sign-up .overlap {
     position: relative;
-    height: 1255px;
+    height: 100vh;
   }
   
   .sign-up .component {
@@ -408,7 +408,7 @@
   }
   
   .sign-up .rectangle-2 {
-    width: 1440px;
+    width: 100vw;
     height: 94px;
     top: 0;
     background-color: #004c59;
@@ -434,19 +434,7 @@
     top: 10px;
     left: 17px;
   }
-  
-  .sign-up .text-wrapper-9 {
-    position: absolute;
-    width: 120px;
-    top: 3px;
-    left: 38px;
-    font-family: "Inter", Helvetica;
-    font-weight: 400;
-    color: #787486;
-    font-size: 14px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
+
   
 
   .sign-up .overlap-group-wrapper {
@@ -498,19 +486,7 @@
     border-color: var(--backgroundlight);
   }
   
-  .sign-up .text-wrapper-10 {
-    position: absolute;
-    height: 17px;
-    top: 0;
-    left: 18px;
-    font-family: "Poppins", Helvetica;
-    font-weight: 700;
-    color: #ffffff;
-    font-size: 11px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
+
   .sign-up .ellipse-2 {
     position: absolute;
     width: 19px;

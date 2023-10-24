@@ -8,7 +8,7 @@ const page = () => {
           <div className="group-17">
             <div className="group-18">
               <div className="text-wrapper-12">Search anything...</div>
-              
+              <img class="img" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-twotone-search-normal-2.svg" />
             </div>
           </div>
           <div className="group-19">

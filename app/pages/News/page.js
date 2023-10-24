@@ -34,15 +34,15 @@ const page = () => {
               </div>
             </div>
           </div>
-          <p className="title">
+          <a href='../../Pages/Newsdet' className="title">
             Abu Dhabi Businesswomen Council signs MoU with Takalam platform
-          </p>
-          <p className="p">
+          </a>
+          <a href='../../Pages/Newsdet' className="p">
             Abu Dhabi Businesswomen Council signs MoU with Takalam platform
-          </p>
-          <p className="title-2">
+          </a>
+          <a href='../../Pages/Newsdet' className="title-2">
             Abu Dhabi Businesswomen Council signs MoU with Takalam platform
-          </p>
+          </a>
           <div className="overline">JUN 14,2023</div>
           <div className="frame-6">
             <div className="secondary-text-wrapper">
