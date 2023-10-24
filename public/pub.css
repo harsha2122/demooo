@@ -1,0 +1,259 @@
+.sign-up-container {
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  
+  .sign-up-sign-up {
+    gap: 150px;
+    display: flex;
+    position: absolute;
+    transform: translate(0%, 20%);
+    overflow: hidden;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  
+  .sign-up-arabicbusinessteamintheoffice20220205015419utc1 {
+    width: 487px;
+    height: 638px;
+    border-radius: 28px;
+  }
+  .sign-up-group181544 {
+    width: 351px;
+    height: 527px;
+    display: flex;
+    z-index: 1;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sign-up-frame4 {
+    gap: 21px;
+    top: 170px;
+    left: 1px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .sign-up-rectangle8 {
+    width: 23px;
+    height: 23px;
+    border-radius: 4px;
+  }
+  .sign-up-line6 {
+    top: 0px;
+    left: 104px;
+    width: 45px;
+    height: 1px;
+    z-index: 1;
+    position: absolute;
+  }
+  .sign-up-text {
+    top: 267px;
+    left: 284px;
+    color: rgba(0, 76, 89, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-up-text02 {
+    top: 408px;
+    left: 67px;
+    color: rgba(0, 76, 89, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-up-text04 {
+    top: 508px;
+    left: 123px;
+    color: rgba(106, 106, 106, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .sign-up-text06 {
+    top: 474px;
+    left: 52px;
+    color: rgba(106, 106, 106, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-up-rectangle10 {
+    top: 236px;
+    left: 0px;
+    width: 347px;
+    height: 45px;
+    position: absolute;
+    border-color: rgba(145, 175, 181, 1);
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 4px;
+  }
+  .sign-up-frame3 {
+    gap: 22px;
+    top: 183px;
+    left: 16px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+  }
+  
+  .sign-up-frame31 {
+    gap: 22px;
+    top: 233px;
+    left: 16px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+  }
+  .sign-up-unitedarabemirates1 {
+    width: 20px;
+    height: 20px;
+  }
+  .sign-up-text08 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    position: absolute;
+    top: -10px;
+    left: 20px;
+  }
+  .sign-up-text10 {
+    color: rgba(137, 137, 137, 1);
+    height: auto;
+    font-size: 13px;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-up-frame2 {
+  
+    top: 300px;
+    left: 1px;
+    width: 36px;
+    height: 28px;
+    display: flex;
+    padding: 10.568456649780273px 146.9976348876953px;
+    overflow: hidden;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 4.803843975067139px;
+    justify-content: center;
+    background-color: rgba(0, 76, 89, 1);
+  }
+  .sign-up-text12 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sign-up-abu-dhabi-chamber1 {
+    top: 0px;
+    left: 50px;
+    width: 198px;
+    height: 123px;
+    position: absolute;
+  }
+  .sign-up-text14 {
+    top: 499px;
+    left: 926px;
+    color: rgba(137, 137, 137, 1);
+    height: auto;
+    z-index: 2;
+    position: absolute;
+    font-size: 13px;
+    font-style: Light;
+    text-align: left;
+    font-family: SF Pro;
+    font-weight: 300;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .contact{
+    width: 357px;
+    padding: 10px 15px;
+    position: absolute;
+    top: -21px;
+    left: -28px;
+    background: transparent;
+    text-align: center;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+  }
+  
+  .contact1{
+    width: 357px;
+    padding: 10px 25px;
+    position: absolute;
+    top: -21px;
+    left: -28px;
+    background: transparent;
+    text-align: start;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+  }
+  
+  .side-container{
+    display: flex;
+    flex-direction: column;
+  
+  }
+
+  

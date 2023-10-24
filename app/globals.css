@@ -8,7 +8,7 @@ html,
 body {
   margin: 0px;
   height: 100%;
-  overflow: auto;
+  overflow-x: hidden;
 }
 
 
@@ -60,4 +60,6 @@ a {
   --backgroundlight: rgba(255, 255, 255, 1);
   --lighton-surface-medium-emphasis: rgba(0, 0, 0, 0.6);
 }
+
+
 

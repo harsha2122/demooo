@@ -1,10 +1,11 @@
 import React from 'react'
-import '/style.css'
+import '../style.css'
+
 
 const page = () => {
   return (
     <>
-      <div className="dashboard">
+    <div className="dashboard">
     <div className="overlap-group-wrapper">
 
         <div className="headlines" />
