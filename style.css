@@ -19,9 +19,8 @@
   }
   
   .sign-up .child-content{
-      position: absolute;
-      transform: translate(-50%, -50%);
-
+    flex-grow: 1; /* Allow the child content to grow and take up remaining vertical space */
+    padding: 1000px;
   }
 
   .sign-up .component {
