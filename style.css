@@ -704,19 +704,6 @@
     letter-spacing: 0;
   }
   
-  .sign-up .title-2 {
-    width: 507px;
-    height: 58px;
-    top: 644px;
-    left: 557px;
-    font-family: "SF Pro-Regular", Helvetica;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29.4px;
-    position: absolute;
-    color: #121212;
-    letter-spacing: 0;
-  }
   
   .sign-up .overline {
     position: absolute;
@@ -841,19 +828,6 @@
     object-fit: cover;
   }
   
-  .sign-up .title-3 {
-    width: 292px;
-    height: 51px;
-    top: 351px;
-    left: 1105px;
-    font-family: "SF Pro-Medium", Helvetica;
-    font-weight: 500;
-    font-size: 13.5px;
-    line-height: 16.5px;
-    position: absolute;
-    color: #121212;
-    letter-spacing: 0;
-  }
   
   .sign-up .overline-4 {
     width: 77px;
@@ -2776,4 +2750,10 @@ footer p {
 
 .dropdown:hover .dropdown-content4 {
   display: block;
+}
+
+
+.sign-up .notih{
+  font-size: 20px;
+  padding: 15px 10px;
 }

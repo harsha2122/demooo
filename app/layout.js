@@ -112,7 +112,7 @@ export default function RootLayout({ children }) {
                         <div class="text-wrapper-10">12</div>
                       </button>
                       <div class="dropdown-content1">
-                        <h1>Notification</h1>
+                        <h1 class="notih">Notification</h1>
                         <a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</a>
                         <a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</a>
                       </div>
