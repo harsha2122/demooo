@@ -1,57 +1,4 @@
-.sign-up {
-  background-color: #ffffff;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
 
-}
-
-.sign-up .overlap-wrapper {
-  background-color: #ffffff;
-  width: 100vw;
-  height: 100vh;
-}
-
-.sign-up .overlap {
-  position: relative;
-  height: 1024px;
-}
-
-.sign-up .component {
-  position: absolute;
-  width: 100vw;
-  height: 100vh;
-  top: 0;
-  left: 0;
-  
-}
-  
-  .sign-up .rectangle {
-    position: absolute;
-    width: 254px;
-    height: 930px;
-    top: 94px;
-    left: 0;
-    background-color: #fafafb;
-  }
-  
-  .sign-up .group {
-    position: absolute;
-    width: 210px;
-    height: 870px;
-    top: 69px;
-    left: 22px;
-    background-color: #fafafb;
-  }
-  
-  .sign-up .div {
-    position: absolute;
-    width: 115px;
-    height: 22px;
-    top: 71px;
-    left: 1px;
-  }
   
   .sign-up .img {
     position: absolute;
@@ -72,14 +19,7 @@
     letter-spacing: 0;
     line-height: normal;
   }
-  
-  .sign-up .group-2 {
-    position: absolute;
-    width: 199px;
-    height: 227px;
-    top: 127px;
-    left: 0;
-  }
+
   
   .sign-up .frame-wrapper {
     position: absolute;
@@ -113,25 +53,8 @@
     line-height: normal;
   }
   
-  .sign-up .vuesax-outline-arrow {
-    position: relative;
-    width: 21.18px;
-    height: 21.18px;
-  }
-  
-  .sign-up .frame-2 {
-    display: flex;
-    flex-direction: column;
-    width: 178px;
-    height: 164px;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 17.7px;
-    padding: 7.45px;
-    position: absolute;
-    top: 63px;
-    left: 21px;
-  }
+
+
   
   .sign-up .cafe-restaurant {
     position: relative;
@@ -180,15 +103,7 @@
     line-height: normal;
   }
   
-  .sign-up .div-wrapper {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 19.56px;
-    position: absolute;
-    top: 395px;
-    left: 0;
-  }
+
   
   .sign-up .frame-3 {
     display: inline-flex;
@@ -244,21 +159,7 @@
     left: -4px;
   }
   
-  .sign-up .vector-3 {
-    position: absolute;
-    width: 209px;
-    height: 1px;
-    top: 538px;
-    left: 0;
-  }
-  
-  .sign-up .group-4 {
-    position: absolute;
-    width: 194px;
-    height: 24px;
-    top: 558px;
-    left: 0;
-  }
+
   
   .sign-up .group-5 {
     height: 24px;
@@ -269,23 +170,7 @@
     width: 24.22px;
     height: 24.22px;
   }
-  
-  .sign-up .vector-4 {
-    position: absolute;
-    width: 209px;
-    height: 1px;
-    top: 601px;
-    left: 0;
-  }
-  
-  .sign-up .group-6 {
-    position: absolute;
-    width: 194px;
-    height: 25px;
-    top: 621px;
-    left: 0;
-  }
-  
+
   .sign-up .group-7 {
     height: 25px;
   }
@@ -295,42 +180,13 @@
     width: 25.15px;
     height: 25.15px;
   }
-  
-  .sign-up .vector-5 {
-    position: absolute;
-    width: 209px;
-    height: 1px;
-    top: 665px;
-    left: 0;
-  }
-  
-  .sign-up .group-8 {
-    position: absolute;
-    width: 194px;
-    height: 22px;
-    top: 685px;
-    left: 0;
-  }
+
   
   .sign-up .group-9 {
     height: 22px;
   }
   
-  .sign-up .vector-6 {
-    position: absolute;
-    width: 209px;
-    height: 1px;
-    top: 727px;
-    left: 0;
-  }
-  
-  .sign-up .group-10 {
-    position: absolute;
-    width: 100px;
-    height: 24px;
-    top: 748px;
-    left: 0;
-  }
+
   
   .sign-up .frame-5 {
     display: inline-flex;

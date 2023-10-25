@@ -78,7 +78,7 @@
   .sign-up .group-2 {
     position: absolute;
     width: 199px;
-    height: 227px;
+    height: 27px;
     top: 127px;
     left: 0;
   }
@@ -116,24 +116,17 @@
   }
   
   .sign-up .vuesax-outline-arrow {
-    position: relative;
-    width: 21.18px;
-    height: 21.18px;
+    position: absolute;
+    top: 0px;
+    left: 150px
+  }
+
+  .sign-up .vuesax-outline-arrow1 {
+    position: absolute;
+    top: 0px;
+    left: 150px
   }
   
-  .sign-up .frame-2 {
-    display: flex;
-    flex-direction: column;
-    width: 178px;
-    height: 164px;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 17.7px;
-    padding: 7.45px;
-    position: absolute;
-    top: 63px;
-    left: 21px;
-  }
   
   .sign-up .cafe-restaurant {
     position: relative;
@@ -187,18 +180,16 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 19.56px;
-    position: absolute;
-    top: 395px;
+    top: 150px;
     left: 0;
   }
   
   .sign-up .frame-3 {
     display: inline-flex;
     flex-direction: column;
-    align-items: flex-start;
     gap: 19.56px;
     position: relative;
-    flex: 0 0 auto;
+
   }
   
   .sign-up .vector {
@@ -250,7 +241,7 @@
     position: absolute;
     width: 209px;
     height: 1px;
-    top: 538px;
+    top: 228px;
     left: 0;
   }
   
@@ -258,7 +249,7 @@
     position: absolute;
     width: 194px;
     height: 24px;
-    top: 558px;
+    top: 243px;
     left: 0;
   }
   
@@ -276,7 +267,7 @@
     position: absolute;
     width: 209px;
     height: 1px;
-    top: 601px;
+    top: 280px;
     left: 0;
   }
   
@@ -284,7 +275,7 @@
     position: absolute;
     width: 194px;
     height: 25px;
-    top: 621px;
+    top: 300px;
     left: 0;
   }
   
@@ -302,7 +293,7 @@
     position: absolute;
     width: 209px;
     height: 1px;
-    top: 665px;
+    top: 340px;
     left: 0;
   }
   
@@ -310,7 +301,7 @@
     position: absolute;
     width: 194px;
     height: 22px;
-    top: 685px;
+    top: 355px;
     left: 0;
   }
   
@@ -322,7 +313,7 @@
     position: absolute;
     width: 209px;
     height: 1px;
-    top: 727px;
+    top: 395px;
     left: 0;
   }
   
@@ -330,7 +321,7 @@
     position: absolute;
     width: 100px;
     height: 24px;
-    top: 748px;
+    top: 410px;
     left: 0;
   }
   
@@ -1414,7 +1405,7 @@
     display: flex;
     flex: 0 0 auto;
     flex-wrap: wrap;
-    gap: 1.97px 7px;
+    gap: 8.97px 7px;
     position: relative;
     width: 348.16px;
   }
@@ -1501,7 +1492,7 @@
     display: flex;
     flex: 0 0 auto;
     flex-wrap: wrap;
-    gap: 7.97px 21px;
+    gap: 23px 6px;
     position: relative;
     width: 348.16px;
   }
@@ -1607,12 +1598,6 @@
   }
 
   
-  .dashboard .frame-21 {
-    height: 9.58px;
-    position: relative;
-    width: 112.29px;
-  }
-  
   .dashboard .overlap-group-3 {
     height: 9px;
     position: relative;
@@ -1631,7 +1616,7 @@
     height: 9px;
     left: 1px;
     position: absolute;
-    top: -7px;
+    top: -4px;
     width: 113px;
   }
   
@@ -1772,7 +1757,7 @@
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
-    top: 10px;
+    top: 15px;
     width: 753px;
   }
   
@@ -2356,15 +2341,6 @@
   top: 42px;
 }
 
-.dashboard .frame-14 {
-  align-items: flex-end;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 1.97px 7px;
-  position: relative;
-  width: 348.16px;
-}
 
 .dashboard .p {
   color: #343434;
@@ -2531,7 +2507,7 @@
 }
 
 .dashboard .frame-21 {
-  height: 9.58px;
+  height: 0px;
   position: relative;
   width: 112.29px;
 }
@@ -2602,18 +2578,6 @@
   width: 353.92px;
 }
 
-.dashboard .upcoming-events-see {
-  color: transparent;
-  font-family: "SF Pro-Regular", Helvetica;
-  font-size: 12.2px;
-  font-weight: 400;
-  left: 655px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 280px;
-  width: 352px;
-}
 
 .dashboard .headlines-3 {
   background-color: var(--white);
@@ -2771,5 +2735,45 @@ footer p {
 }
 
 
+.dropdown-content3 {
+  display: none;
+  width: 278px;
+  padding-left : 90px;
+  background: #fafafb;
+  z-index: 20;
+  position: absolute;
+  top: 20px;
+  left: -55px;
+}
+
+.dropdown-content3 li{
+  margin-top: 15px;
+  border-left: 1px solid rgb(217, 217, 217) ;
+  padding-left: 10px;
+}
+
+.dropdown:hover .dropdown-content3 {
+  display: block;
+}
 
 
+.dropdown-content4 {
+  display: none;
+  width: 278px;
+  padding-left : 90px;
+  background: #fafafb;
+  z-index: 20;
+  position: absolute;
+  top: 42px;
+  left: -55px;
+}
+
+.dropdown-content4 li{
+  margin-top: 15px;
+  border-left: 1px solid rgb(217, 217, 217) ;
+  padding-left: 10px;
+}
+
+.dropdown:hover .dropdown-content4 {
+  display: block;
+}
