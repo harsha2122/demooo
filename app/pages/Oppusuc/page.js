@@ -1,17 +1,17 @@
 import React from 'react'
-import './suc.css'
+
 
 const page = () => {
   return (
     <>
-            <div class="frame-6">
-            <a href='/Pages/Oppurtunities' class="group-17">
-              <div class="overlap-group-3">
-                <img class="vector-9" src="https://c.animaapp.com/Nprxwvsv/img/vector-1.svg" />
-                <img class="vector-10" src="https://c.animaapp.com/Nprxwvsv/img/vector.svg" />
+            <div class="frame-65">
+            <a href='/Pages/Oppurtunities' class="group-175">
+              <div class="overlap-group-35">
+                <img class="vector-95" src="https://c.animaapp.com/Nprxwvsv/img/vector-1.svg" />
+                <img class="vector-105" src="https://c.animaapp.com/Nprxwvsv/img/vector.svg" />
               </div>
             </a>
-            <div class="text-wrapper-12">Go back</div>
+            <div class="text-wrapper-125">Go back</div>
           </div>
     <div class="frame">
         <svg width="76" height="75" viewBox="0 0 76 75" fill="none" xmlns="http://www.w3.org/2000/svg">
