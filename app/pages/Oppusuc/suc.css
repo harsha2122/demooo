@@ -1,0 +1,113 @@
+.frame {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 37px;
+	position: absolute;
+    top: 300px;
+    left: 500px;
+}
+
+.frame .tick-circle-svgrepo {
+	position: relative;
+	width: 74.33px;
+	height: 74.33px;
+}
+
+.frame .thank-you-for {
+	position: relative;
+	width: 726px;
+	height: 65px;
+	font-family: "Roboto-Light", Helvetica;
+	font-weight: 300;
+	color: #000000;
+	font-size: 21px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: 35.3px;
+}
+
+.frame .div-wrapper {
+	display: flex;
+	width: 686px;
+	height: 48px;
+	align-items: center;
+	justify-content: center;
+	gap: 9.61px;
+	padding: 10.57px 147px;
+	position: relative;
+	background-color: #004c59;
+	border-radius: 4.8px;
+	overflow: hidden;
+    top: 35px;
+}
+
+.frame .text-wrapper {
+	position: relative;
+	width: fit-content;
+	font-family: "Roboto-SemiBold", Helvetica;
+	font-weight: 600;
+	color: #ffffff;
+	font-size: 19.2px;
+	letter-spacing: 0;
+	line-height: normal;
+	white-space: nowrap;
+    left: -5px;
+}
+
+.sign-up .frame-6 {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 130px;
+    left: 329px;
+  }
+
+  .sign-up .group-17 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border: 0.5px solid;
+    border-color: #b0b0b0;
+  }
+
+  .sign-up .overlap-group-3 {
+    position: relative;
+    width: 12px;
+    height: 12px;
+    top: 9px;
+    left: 9px;
+  }
+
+  .sign-up .vector-9 {
+    position: absolute;
+    width: 12px;
+    height: 1px;
+    top: 5px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .sign-up .vector-10 {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    top: 0;
+    left: 0;
+  }
+
+  .sign-up .text-wrapper-12 {
+    position: relative;
+    width: 124px;
+    height: 20px;
+    margin-left: -5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #050505;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }

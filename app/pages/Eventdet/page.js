@@ -88,7 +88,7 @@ const page = () => {
         </div>
         <div class="div-5">
           <div class="text-wrapper-11">How to get there</div>
-          <img class="mask-group" src="img/mask-group.png" />
+          <img class="mask-group" src="/assets/map.png" />
         </div>
       </div>
     </div>

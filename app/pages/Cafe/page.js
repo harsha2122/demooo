@@ -26,7 +26,7 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -70,7 +70,7 @@ const page = () => {
                   />
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -109,7 +109,7 @@ const page = () => {
                   />
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -148,7 +148,7 @@ const page = () => {
                   />
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -180,7 +180,7 @@ const page = () => {
                   </div>
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -224,7 +224,7 @@ const page = () => {
                   />
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -263,7 +263,7 @@ const page = () => {
                   />
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -302,7 +302,7 @@ const page = () => {
                   />
                 </div>
               </div>
-              <a href="#" className="frame-7">
+              <a href="/Pages/Business" className="frame-7">
                 <div className="text-wrapper-14">Connect</div>
                 <img
                   className="group-20"
@@ -328,7 +328,7 @@ const page = () => {
             <div className="content">
               <input
                 className="search-offers-and"
-                placeholder="Search offers and deals"
+                placeholder="Search Businesses"
                 type="text"
               />
             </div>

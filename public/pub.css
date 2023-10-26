@@ -1091,8 +1091,8 @@
   
   .box .frame-15 {
     display: flex;
-    width: 348px;
-    height: 48px;
+    width: 95px;
+    height: 30px;
     align-items: center;
     justify-content: center;
     gap: 9.61px;
@@ -1101,6 +1101,8 @@
     background-color: #004c59;
     border-radius: 4.8px;
     overflow: hidden;
+    margin-bottom: 50px;
+    text-decoration: none;
   }
   
   .box .text-wrapper-8 {
@@ -1172,3 +1174,44 @@
     letter-spacing: 0;
     line-height: normal;
   }
+
+  .sign-up .frame-62 {
+    position: relative;
+    top: -100px;
+    left: -146px;
+  }
+
+  .sign-up .group-17 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border: 0.5px solid;
+    border-color: #b0b0b0;
+  }
+
+  .sign-up .overlap-group-3 {
+    position: relative;
+    width: 12px;
+    height: 12px;
+    top: 9px;
+    left: 9px;
+  }
+
+
+  .sign-up .text-wrapper-12 {
+    position: relative;
+    width: 124px;
+    height: 20px;
+    margin-left: -5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #050505;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  

@@ -83,7 +83,7 @@ const page = () => {
                 <div class="content">
                   <input
                     class="search-offers-and"
-                    placeholder="Search offers and deals"
+                    placeholder="Search Businesses"
                     type="text"
                   />
                 </div>

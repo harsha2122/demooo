@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
                       <ul class="frame-wrapper">
                           <div class="frame-4">
                               <img class="img-2" src="https://c.animaapp.com/DC1Sd5sj/img/iconly-6.svg" />
-                              <a href='/Pages/Business' class="text-wrapper-2">Businesses</a>
+                              <a href='/Pages/Cafe' class="text-wrapper-2">Businesses</a>
                               <img class="vuesax-outline-arrow" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-outline-arrow-down-3.svg" />
                           </div>
                       </ul>

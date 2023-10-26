@@ -91,7 +91,7 @@ const page = () => {
               terms of Peko. Terms and conditions
             </p>
           </div>
-          <div class="frame-28"><div class="text-wrapper-15">Submit</div></div>
+          <a href='/Pages/Oppusuc' class="frame-28"><div class="text-wrapper-15">Submit</div></a>
           <div class="text-wrapper-16">Add Opportunities</div>
     </>
   )
