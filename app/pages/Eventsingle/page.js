@@ -18,17 +18,18 @@ const page = () => {
               </div>
               <div className="group-21">
                 <div className="text-wrapper-12">Events</div>
-                <img
-                  className="calendar-day"
-                  alt="Calendar day"
-                  src="https://c.animaapp.com/uCiIVWHM/img/calendar-day.svg"
-                />
-                <a href='#'>
+                <a href='/Pages/Uevent'>
+                  <img
+                    className="calendar-day"
+                    alt="Calendar day"
+                    src="https://c.animaapp.com/uCiIVWHM/img/calendar-day.svg"
+                  />
+                </a>
                 <img
                   className="list"
                   alt="List"
                   src="https://c.animaapp.com/uCiIVWHM/img/list-1.svg"
-                /></a>
+                />
               </div>
               <div className="frame-6">
                 <div className="input">

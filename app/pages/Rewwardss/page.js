@@ -30,7 +30,7 @@ const page = () => {
                 src="https://c.animaapp.com/hCbyYsH2/img/microsoft-office-logo--2019-present--1@2x.png"
               />
               <div class="text-wrapper-13">Microsoft Office</div>
-              <a href='#' class="group-20">
+              <a href='/Pages/Rewards' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
               </a>
               <div class="ellipse-4"></div>
@@ -47,7 +47,7 @@ const page = () => {
               <p class="element-OFF">
                 <span class="span">10% <br /></span> <span class="text-wrapper-15">OFF</span>
               </p>
-              <a href='#' class="group-20">
+              <a href='/Pages/Rewards' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
               </a>
             </div>
@@ -57,7 +57,7 @@ const page = () => {
             <div class="overlap-3">
               <div class="rectangle-3"></div>
               <div class="text-wrapper-13">Envato Elements</div>
-              <a href='#' class="group-20">
+              <a href='/Pages/Rewards' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
               </a>
               <div class="ellipse-4"></div>
@@ -74,7 +74,7 @@ const page = () => {
               <p class="element-OFF">
                 <span class="span">70% <br /></span> <span class="text-wrapper-15">OFF</span>
               </p>
-              <a href='#' class="group-20">
+              <a href='/Pages/Rewards' class="group-20">
                 <div class="overlap-group-3"><div class="text-wrapper-14">Claim Reward</div></div>
               </a>
             </div>

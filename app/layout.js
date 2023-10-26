@@ -26,12 +26,12 @@ export default function RootLayout({ children }) {
                       <ul class="frame-wrapper">
                           <div class="frame-4">
                               <img class="img-2" src="https://c.animaapp.com/DC1Sd5sj/img/iconly-6.svg" />
-                              <a class="text-wrapper-2">Businesses</a>
+                              <a href='/Pages/Business' class="text-wrapper-2">Businesses</a>
                               <img class="vuesax-outline-arrow" src="https://c.animaapp.com/DC1Sd5sj/img/vuesax-outline-arrow-down-3.svg" />
                           </div>
                       </ul>
                       <ul class="frame-2 dropdown-content3">
-                          <li><a href="/Pages/Business" class="cafe-restaurant">Cafe &amp; Restaurant</a></li>
+                          <li><a href="/Pages/Cafe" class="cafe-restaurant">Cafe &amp; Restaurant</a></li>
                           <li><a href='#' class="text-wrapper-3">Shopping</a></li>
                           <li><a href="#" class="building">Building &amp; Construction</a></li>
                           <li><a href="#" class="text-wrapper-3">Resourses</a></li>
@@ -51,7 +51,7 @@ export default function RootLayout({ children }) {
                       </div>
                     </li><ul class="frame-2 dropdown-content4">
                           <li><a href='/Pages/Uevent' class="cafe-restaurant">Upcoming Events</a></li>
-                          <li><a href='/Pages/Eventsingle' class="text-wrapper-3">Events Booked</a></li>
+                          <li><a href='/Pages/Booked' class="text-wrapper-3">Events Booked</a></li>
                       </ul>
                 </li>
                 <img class="vector-2" src="https://c.animaapp.com/DC1Sd5sj/img/vector-10-1.svg" />

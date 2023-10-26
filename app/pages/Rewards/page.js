@@ -12,7 +12,7 @@ const page = () => {
                 </div>
               </div>
               <div class="content">
-                <input class="search-opportunities" placeholder="Search&amp;nbsp;&amp;nbsp;Opportunities" type="text" />
+                <input class="search-opportunities" placeholder="Search Opportunities" type="text" />
               </div>
             </div>
           </div>
@@ -60,7 +60,7 @@ const page = () => {
               </div>
             </div>
           </div>
-          <div class="frame-6">
+          <a href='/Pages/Rewwardss' class="frame-6">
             <div class="group-31">
               <div class="overlap-group-5">
                 <img class="vector-10" src="https://c.animaapp.com/L6EO577q/img/vector-1.svg" />
@@ -68,7 +68,7 @@ const page = () => {
               </div>
             </div>
             <div class="text-wrapper-16">Go back</div>
-          </div>
+          </a>
     </>
   )
 }

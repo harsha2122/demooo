@@ -34,9 +34,9 @@ const page = () => {
                         <div className="rectangle-3" />
                         <div className="element-13">17</div>
                         <div className="rectangle-4" />
-                        <p className="all-offers-live-offe">
+                        <a href='/Pages/Payment' className="all-offers-live-offe">
                           Future Urbanism Smart City Summit and Expo
-                        </p>
+                        </a>
                       </div>
                       <div className="element-14">14</div>
                       <div className="element-15">15</div>
@@ -69,9 +69,9 @@ const page = () => {
                     <div className="text-wrapper-19">Sat</div>
                     <div className="overlap-7">
                       <div className="rectangle-5" />
-                      <p className="p">
+                      <a href='/Pages/Payment' className="p">
                         Future Urbanism Smart City Summit and Expo
-                      </p>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -91,11 +91,13 @@ const page = () => {
                   alt="Calendar day"
                   src="https://c.animaapp.com/4LtK2jGG/img/calendar-day.svg"
                 />
-                <img
-                  className="list"
-                  alt="List"
-                  src="https://c.animaapp.com/4LtK2jGG/img/list-1.svg"
-                />
+                <a href='/Pages/Eventsingle'>
+                  <img
+                    className="list"
+                    alt="List"
+                    src="https://c.animaapp.com/4LtK2jGG/img/list-1.svg"
+                  />
+                </a>
               </div>
             </div>
           </div>
