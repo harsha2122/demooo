@@ -1,5 +1,6 @@
 
-  .frame .div {
+ 
+ .frame .div {
 	display: inline-flex;
 	flex-direction: column;
 	align-items: flex-start;

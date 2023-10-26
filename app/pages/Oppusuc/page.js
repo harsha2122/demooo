@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './suc.css'
 
 const page = () => {
   return (

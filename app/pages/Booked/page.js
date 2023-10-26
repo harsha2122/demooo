@@ -38,7 +38,7 @@ const page = () => {
               <div class="text-wrapper-2">3</div>
             </div>
             <div class="div-10">
-              <div class="div-wrapper"><div class="text-wrapper-3">Download</div></div>
+              <div class="div-wrapper69"><div class="text-wrapper-3">Download</div></div>
               <div class="text-wrapper-4">Upcoming</div>
             </div>
           </div>
@@ -57,7 +57,7 @@ const page = () => {
               <div class="text-wrapper-2">3</div>
             </div>
             <div class="div-10">
-              <div class="div-wrapper"><div class="text-wrapper-3">Download</div></div>
+              <div class="div-wrapper69"><div class="text-wrapper-3">Download</div></div>
               <div class="text-wrapper-4">Upcoming</div>
             </div>
           </div>
@@ -76,7 +76,7 @@ const page = () => {
               <div class="text-wrapper-2">3</div>
             </div>
             <div class="div-10">
-              <div class="div-wrapper"><div class="text-wrapper-3">Download</div></div>
+              <div class="div-wrapper69"><div class="text-wrapper-3">Download</div></div>
               <div class="text-wrapper-4">Upcoming</div>
             </div>
           </div>
@@ -95,7 +95,7 @@ const page = () => {
               <div class="text-wrapper-2">3</div>
             </div>
             <div class="div-10">
-              <div class="div-wrapper"><div class="text-wrapper-3">Download</div></div>
+              <div class="div-wrapper69"><div class="text-wrapper-3">Download</div></div>
               <div class="text-wrapper-4">Upcoming</div>
             </div>
           </div>
