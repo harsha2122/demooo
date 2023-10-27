@@ -58,8 +58,12 @@ const page = () => {
               </div>
             </div>
           </div>
-          <a href='#' className="group-23">
+          <div class="rectangle90"></div>
+          <div class="all-offers-live-offe90">Onsite</div>
+          <a href='/Pages/Eventdet' className="group-23">
+
             <div className="overlap-5">
+
               <p className="p">Future Urbanism Smart City Summit and Expo</p>
               <img
                 className="conferences-program"
@@ -131,7 +135,9 @@ const page = () => {
               </div>
             </div>
           </a>
-          <a href='#' className="group-27">
+          <div class="rectangle901"></div>
+          <div class="all-offers-live-offe901">Online</div>
+          <a href='/Pages/Eventdet' className="group-27">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>
               <img
@@ -204,79 +210,7 @@ const page = () => {
               </div>
             </div>
           </a>
-          <a href='#' className="group-28">
-            <div className="overlap-5">
-              <p className="p">Future Urbanism Smart City Summit and Expo</p>
-              <img
-                className="conferences-program"
-                alt="Conferences program"
-                src="https://c.animaapp.com/uCiIVWHM/img/conferences-program-1-3@2x.png"
-              />
-              <p className="text-wrapper-13">
-                Future Urbanism Expo is proud to co-locate with industry
-                defining events that together make up the world’s largest tech
-                ecosystem
-              </p>
-              <div className="frame-7">
-                <div className="text-wrapper-14">STARTS ON</div>
-                <div className="group-24">
-                  <div className="overlap-group-3">
-                    <div className="NOVEMBER">
-                      NOVEMBER
-                      <br />
-                      2023
-                    </div>
-                    <div className="text-wrapper-15">03</div>
-                  </div>
-                </div>
-              </div>
-              <div className="frame-8">
-                <div className="text-wrapper-16">ENDS ON</div>
-                <div className="group-24">
-                  <div className="overlap-group-3">
-                    <div className="NOVEMBER">
-                      NOVEMBER
-                      <br />
-                      2023
-                    </div>
-                    <div className="text-wrapper-15">07</div>
-                  </div>
-                </div>
-              </div>
-              <div className="frame-9">
-                <div className="frame-10">
-                  <div className="group-25">
-                    <div className="text-wrapper-17">
-                      World Trade Centre, Dubai
-                    </div>
-                    <img
-                      className="map-pin"
-                      alt="Map pin"
-                      src="https://c.animaapp.com/uCiIVWHM/img/map-pin-3.svg"
-                    />
-                  </div>
-                </div>
-                <a href='#' className="frame-11">
-                  <div className="text-wrapper-18">Book Tickets</div>
-                  <div className="group-26">
-                    <div className="overlap-group-4">
-                      <div className="ellipse-4" />
-                      <img
-                        className="vector-8"
-                        alt="Vector"
-                        src="https://c.animaapp.com/uCiIVWHM/img/vector-7.svg"
-                      />
-                      <img
-                        className="vector-9"
-                        alt="Vector"
-                        src="https://c.animaapp.com/uCiIVWHM/img/vector-6.svg"
-                      />
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-          </a>
+          
           {/* <div className="group-29">
             <div className="overlap-5">
               <p className="p">Future Urbanism Smart City Summit and Expo</p>

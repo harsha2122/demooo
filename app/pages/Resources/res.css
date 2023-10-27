@@ -1,0 +1,209 @@
+  .sign-up .group-17 {
+    position: absolute;
+    width: 1092px;
+    height: 27px;
+    top: 134px;
+    left: 306px;
+  }
+
+  .sign-up .group-18 {
+    position: relative;
+    width: 1094px;
+    height: 27px;
+  }
+
+  .sign-up .text-wrapper-12 {
+    position: absolute;
+    width: 201px;
+    top: 0;
+    left: 0;
+    font-weight: 400;
+    color: #050505;
+    font-size: 27px;
+    white-space: nowrap;
+    font-family: "Inter", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .sign-up .input-wrapper {
+    display: inline-flex;
+    align-items: center;
+
+    position: absolute;
+    top: 127px;
+    left: 1028px;
+  }
+  
+  .sign-up .input {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 13px 56px 13px 14px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 6.1px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #c0c1c2;
+  }
+
+  .sign-up .icons-left {
+    position: relative;
+    width: 15.92px;
+    height: 15.92px;
+  }
+  
+  .sign-up .user-interface {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+  }
+  
+  .sign-up .round {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 3px;
+    left: 2px;
+  }
+  
+  .sign-up .content {
+    position: relative;
+    width: 238.87px;
+    height: 15.92px;
+  }
+  
+  .sign-up .search-opportunities {
+    top: 1px;
+    left: 14px;
+    font-family: "SF Pro-Regular", Helvetica;
+    color: #8d939a;
+    font-size: 11.7px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+
+  .ff{
+    display: flex;
+    margin-left: 20px;
+  }
+
+
+  .frame78 {
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+ 
+  }
+  
+
+  
+  .frame78 .screenshot {
+    position: relative;
+    width: 250.15px;
+    height: 135.33px;
+    object-fit: cover;
+  }
+  
+  .frame78 .AI-for-small {
+    position: relative;
+    width: 250.38px;
+    height: 106.68px;
+    margin-bottom: -7.23px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: #131313;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 220px;
+    left: 288px;
+  }
+  
+  .frame78 .text-wrapper78 {
+    font-weight: 500;
+    font-size: 13.8px;
+  }
+  
+  .frame78 .span {
+    font-family: "Inter-Regular", Helvetica;
+
+  }
+  
+  .frame78 .text-wrapper-2 {
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 9.7px;
+    margin-top: -10px;
+  }
+  
+  .frame78 .div-2 {
+    align-items: center;
+    gap: 8.14px;
+    flex: 0 0 auto;
+    display: inline-flex;
+    position: absolute;
+    top: 237px;
+    left: -40px;
+  }
+
+  .frame78 .div-21{
+    align-items: center;
+    gap: 8.14px;
+    flex: 0 0 auto;
+    display: inline-flex;
+    position: absolute;
+    top: 237px;
+    left: 245px;
+  }
+
+  .frame78 .div-22 {
+    align-items: center;
+    gap: 8.14px;
+    flex: 0 0 auto;
+    display: inline-flex;
+    position: absolute;
+    top: 237px;
+    left: 525px;
+  }
+
+  .frame78 .div-23 {
+    align-items: center;
+    gap: 8.14px;
+    flex: 0 0 auto;
+    display: inline-flex;
+    position: absolute;
+    top: 237px;
+    left: 804px;
+  }
+  
+  .frame78 .text-wrapper-3 {
+    position: relative;
+    width: 325.45px;
+    height: 18.08px;
+    margin-top: -0.9px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #004c59;
+    font-size: 10.7px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 216px;
+    left: 241px;
+  }
+  
+  .frame78 .group21 {
+    position: relative;
+    width: 11.73px;
+    height: 10.41px;
+    margin-right: -0.9px;
+    top: 210px;
+    left: 245px;
+  }
+

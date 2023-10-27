@@ -350,12 +350,12 @@
   }
   
   .sign-up .rectangle-4 {
-    background-color: #e0faff;
+    background-color: #0afc001a;
     height: 25px;
     left: 0;
     position: absolute;
     top: 62px;
-    width: 440px;
+    width: 345px;
   }
   
   .sign-up .all-offers-live-offe {
@@ -778,7 +778,7 @@
     left: 0;
     position: absolute;
     top: 0;
-    width: 440px;
+    width: 327px;
   }
   
   .sign-up .p {

@@ -38,15 +38,7 @@ const page = () => {
             developments relevant to the business community. As such, we manage the sectoral working groups as part of
             our role as a policy advocator, to provide the private sector with the opportunity to pass on their views to
             the legislative authorities regarding issues that impact business development and continuity, and contribute
-            to the formulation of relevant policies.”<br /><br /><br />His Excellency added: “The Chamber is committed
-            to carrying out its tasks and duties to support the private sector in realising its potential. This comes in
-            line with the Chamber’s strategic objectives.”<br />The meeting was attended by Karl Magnus Olsson, Board
-            Member and Chairman of Transformation Committee at the Abu Dhabi Chamber, and Chairs of the Chamber’s
-            working groups, including: Ahmad Rahma Al Masaood, Chairman of the Automotive Agencies and Importers of
-            Spare Parts Working Group; Otaiba Saeed Al Otaiba, Chairman of the Working Cities Working Group; Rasheed
-            Mikati, Board Member and Chairman of the Construction Working Group; Amer Kakish, Board Member and Chairman
-            of the Industry Working Group; Khaled Abdel Karim Al Fahim, Board Member and Chairman of the Healthcare
-            Working Group, and Mounir Haidar, Chairman of the Real Estate Working Group.
+            to the formulation of relevant policies.”<br /><br /><br />
           </p>
     </>
   )

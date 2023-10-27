@@ -5,7 +5,7 @@ const page = () => {
   return (
     <>
         <div class="group-17">
-            <div class="group-18">
+          <div class="group-18">
               <div class="text-wrapper-12">Rewards</div>
               <img class="apps-sort" src="https://c.animaapp.com/hCbyYsH2/img/apps-sort-1.svg" />
             </div>

@@ -571,4 +571,10 @@
     white-space: nowrap;
     width: fit-content;
   }
+
+  .sign-up .v-pic{
+    position: absolute;
+    top: 30px;
+    left: 250px;
+  }
   

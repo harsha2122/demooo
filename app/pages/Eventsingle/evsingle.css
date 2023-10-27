@@ -244,6 +244,7 @@
   height: 301px;
   position: relative;
   width: 350px;
+  top: 50px;
 }
 
 .sign-up .p {
@@ -524,4 +525,54 @@
   top: 617px;
   transform: rotate(0.07deg);
   width: 354px;
+}
+
+
+
+ .rectangle90 {
+  height: 37px;
+  top: 300px;
+  background-color: #e3eeff;
+  position: absolute;
+  width: 350px;
+  left: 300px;
+}
+
+
+ .all-offers-live-offe90 {
+  position: absolute;
+  width: 323px;
+  top: 309px;
+  left: 315px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #003a92;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.rectangle901 {
+  height: 37px;
+  top: 300px;
+  background-color: #E8FFE0;
+  position: absolute;
+  width: 350px;
+  left: 670px;
+}
+
+
+ .all-offers-live-offe901 {
+  position: absolute;
+  width: 323px;
+  top: 309px;
+  left: 685px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #003a92;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22.4px;
 }

@@ -69,7 +69,7 @@ export default function RootLayout({ children }) {
                   <div class="group-7">
                     <div class="frame-4">
                       <img class="iconly-2" src="https://c.animaapp.com/DC1Sd5sj/img/iconly-9.svg" />
-                      <a href="#" class="text-wrapper-5">Resources</a>
+                      <a href="/Pages/Resources" class="text-wrapper-5">Resources</a>
                     </div>
                   </div>
                 </li>
@@ -132,6 +132,7 @@ export default function RootLayout({ children }) {
                   <div class="dropdown-content">
                   <a href="/Pages/Account">My Profile</a>
                   <a href="#">Change Language</a>
+                  <a href="#">Contact us</a>
                   <a href="#">FAQ</a>
                   <a href="#">Settings</a>
                   <a href='../signin.html' class="lg-out"><img src='https://imgs.search.brave.com/CVkPv8ns5hlK9lc8NxDTkjIG4JmU20qmPnZvhkJq04U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/ZXMucHJvL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L2lj/b25lLWRlY29ubmV4/aW9uLWRlY29ubmV4/aW9uLXJvdWdlLnBu/Zw' width="16px" height="16px" class="lgout-img" />Logout</a>

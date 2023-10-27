@@ -34,8 +34,8 @@ const page = () => {
                         <div className="rectangle-3" />
                         <div className="element-13">17</div>
                         <div className="rectangle-4" />
-                        <a href='/Pages/Payment' className="all-offers-live-offe">
-                          Future Urbanism Smart City Summit and Expo
+                        <a href='/Pages/Eventdet' className="all-offers-live-offe">
+                          Future Urbanism Smart City Summit and Expo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online
                         </a>
                       </div>
                       <div className="element-14">14</div>
@@ -69,8 +69,8 @@ const page = () => {
                     <div className="text-wrapper-19">Sat</div>
                     <div className="overlap-7">
                       <div className="rectangle-5" />
-                      <a href='/Pages/Payment' className="p">
-                        Future Urbanism Smart City Summit and Expo
+                      <a href='/Pages/Eventdet' className="p">
+                        Future Urbanism Smart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Onsite
                       </a>
                     </div>
                   </div>

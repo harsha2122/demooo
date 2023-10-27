@@ -507,12 +507,12 @@
   
   .sign-up .frame-7 {
     display: flex;
-    width: 160px;
+    width: 125px;
     align-items: flex-start;
     gap: 15px;
     padding: 4.5px 0px 4.5px 10.5px;
     position: absolute;
-    top: 666px;
+    top: 620px;
     left: 314px;
     background-color: #ececec;
     border-radius: 6px;
@@ -537,9 +537,9 @@
     width: 118px;
     align-items: flex-start;
     gap: 15px;
-    padding: 4.5px 45px 4.5px 10.5px;
+    padding: 4.5px 125px 4.5px 10.5px;
     position: absolute;
-    top: 666px;
+    top: 620px;
     left: 480px;
     background-color: #ececec;
     border-radius: 6px;
@@ -561,9 +561,10 @@
   }
   
   .sign-up .the-meeting-aligns {
-    position: absolute;
+    position: relative;
+    height: 380px;  
     width: 1051px;
-    top: 730px;
+    top: 670px;
     left: 314px;
     font-family: "SF Pro-Light", Helvetica;
     font-weight: 300;
@@ -572,6 +573,17 @@
     text-align: justify;
     letter-spacing: 0;
     line-height: 21px;
-
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
   }
   
+
+.para-res{
+    font-weight: 600;
+  }
+
+.para2{
+    top: 200px;
+    position: relative;
+}  
