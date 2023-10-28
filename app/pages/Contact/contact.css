@@ -1,0 +1,365 @@
+.frame45 {
+	display: inline-flex;
+	flex-direction: column;
+	gap: 53px;
+	position: relative;
+	width: 900px;
+	left: 290px;
+	top: 150px;
+}
+
+.frame45 .div45 {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 406px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .div-245 {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 16px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .text-wrapper45 {
+	position: relative;
+	width: fit-content;
+	margin-top: -1px;
+	font-family: "SF Pro-Regular", Helvetica;
+	font-weight: 400;
+	color: #151515;
+	font-size: 36px;
+	letter-spacing: 0;
+	line-height: normal;
+	white-space: nowrap;
+}
+
+.frame45 .lorem-ipsum-is {
+	position: relative;
+	width: 288px;
+	height: 145px;
+	font-family: "SF Pro-Light", Helvetica;
+	font-weight: 300;
+	color: #000000;
+	font-size: 12px;
+	letter-spacing: 0;
+	line-height: normal;
+}
+
+.frame45 .line {
+	position: relative;
+	width: 1468px;
+	height: 1px;
+	margin-bottom: -0.5px;
+}
+
+.frame45 .div-345 {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: flex-end;
+	gap: 34px;
+	position: absolute;
+	top: 0;
+	left: 441px;
+}
+
+.frame45 .div-445 {
+	display: flex;
+	flex-wrap: wrap;
+	width: 880px;
+	align-items: flex-start;
+	gap: 22px 20px;
+	position: relative;
+	flex: 0 0 auto;
+	left: -100px;
+}
+
+.frame45 .input-wrapper45 {
+	display: inline-flex;
+	align-items: center;
+	gap: 16.25px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .input45 {
+	display: inline-flex;
+	align-items: flex-start;
+	position: relative;
+	padding: 10px 20px;
+	flex: 0 0 auto;
+	border-radius: 7.62px;
+	overflow: hidden;
+	border: 1.25px solid;
+	border-color: #c0c1c2;
+}
+
+.frame45 .icons-left45 {
+	position: relative;
+	width: 19.89px;
+	height: 19.89px;
+}
+
+.frame45 .content45 {
+	position: relative;
+	width: 217.39px;
+	height: 19.85px;
+}
+
+.frame45 .div-545 {
+	position: absolute;
+	top: 1px;
+	left: -22px;
+	font-family: "SF Pro-Regular", Helvetica;
+	font-weight: 400;
+	color: #8d939a;
+	font-size: 14.7px;
+	letter-spacing: 0;
+	line-height: normal;
+	white-space: nowrap;
+	background: transparent;
+	border: none;
+	padding: 0;
+}
+
+.frame45 .group45 {
+	position: relative;
+	width: 1027px;
+	height: 52.38px;
+}
+
+.frame45 .frame-wrapper45 {
+	display: flex;
+	width: 1027px;
+	height: 52px;
+	align-items: center;
+	gap: 22.49px;
+	position: relative;
+}
+
+.frame45 .div-wrapper45 {
+	display: flex;
+	width: 1018px;
+	align-items: center;
+	gap: 16.25px;
+	position: relative;
+	margin-top: -2.46px;
+	margin-bottom: -2.46px;
+}
+
+.frame45 .input-245 {
+	width: 880px;
+	display: flex;
+	align-items: flex-start;
+	padding: 16.25px 69.98px 16.25px 17.5px;
+	position: relative;
+	border-radius: 7.62px;
+	overflow: hidden;
+	border: 1.25px solid;
+	border-color: #c0c1c2;
+}
+
+.frame45 .content-245 {
+	position: relative;
+	width: 154px;
+	height: 20px;
+}
+
+.frame45 .element45 {
+	position: relative;
+	width: 24.81px;
+	height: 24.81px;
+	object-fit: cover;
+	left: 40px;
+}
+
+.frame45 .input-345 {
+	width: 1027px;
+	height: 248px;
+	display: flex;
+	align-items: flex-start;
+	padding: 16.25px 69.98px 16.25px 17.5px;
+	position: relative;
+	border-radius: 7.62px;
+	overflow: hidden;
+	border: 1.25px solid;
+	border-color: #c0c1c2;
+}
+
+.frame45 .text-wrapper-245 {
+	position: absolute;
+	top: 1px;
+	left: -22px;
+	font-family: "SF Pro-Regular", Helvetica;
+	font-weight: 400;
+	color: #8d939a;
+	font-size: 14.7px;
+	letter-spacing: 0;
+	line-height: normal;
+	white-space: nowrap;
+}
+
+.frame45 .div-wrapper-245 {
+	display: flex;
+	width: 300.11px;
+	height: 45.19px;
+	align-items: center;
+	justify-content: center;
+	gap: 11.05px;
+	position: relative;
+	background-color: #004c59;
+	border-radius: 5.52px;
+	overflow: hidden;
+	left: -100px;
+}
+
+.frame45 .text-wrapper-345 {
+	position: relative;
+	width: fit-content;
+	margin-left: -4.45px;
+	margin-right: -4.45px;
+	font-family: "Roboto-SemiBold", Helvetica;
+	font-weight: 600;
+	color: #ffffff;
+	font-size: 20.1px;
+	letter-spacing: 0;
+	line-height: normal;
+	white-space: nowrap;
+}
+
+.frame45 .div-645 {
+	display: inline-flex;
+	align-items: flex-start;
+	gap: 88px;
+	position: relative;
+	flex: 0 0 auto;
+	margin-top: -50px;
+}
+
+.frame45 .div-745 {
+	display: inline-flex;
+	align-items: center;
+	gap: 40px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .phone-call45 {
+	position: relative;
+	width: 52px;
+	height: 52px;
+	object-fit: cover;
+}
+
+.frame45 .div-845 {
+	display: flex;
+	flex-direction: column;
+	width: 165px;
+	align-items: flex-start;
+	gap: 11px;
+	position: relative;
+}
+
+.frame45 .text-wrapper-445 {
+	position: relative;
+	width: fit-content;
+	margin-top: -1px;
+	font-family: "SF Pro-Medium", Helvetica;
+	font-weight: 500;
+	color: #151515;
+	font-size: 20px;
+	letter-spacing: 0;
+	line-height: normal;
+	white-space: nowrap;
+}
+
+.frame45 .text-wrapper-545 {
+	position: relative;
+	width: 318px;
+	height: 73px;
+	margin-right: -123px;
+	font-family: "SF Pro-Regular", Helvetica;
+	font-weight: 400;
+	color: #000000;
+	font-size: 15px;
+	letter-spacing: 0;
+	line-height: 25px;
+}
+
+.frame45 .div-945 {
+	display: inline-flex;
+	align-items: flex-start;
+	gap: 252px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .location45 {
+	position: relative;
+	width: 62px;
+	height: 62px;
+	object-fit: cover;
+}
+
+.frame45 .div-1045 {
+	display: inline-flex;
+	align-items: center;
+	gap: 41px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .email45 {
+	position: relative;
+	width: 42px;
+	height: 42px;
+	object-fit: cover;
+}
+
+.frame45 .div-1145 {
+	display: inline-flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 11px;
+	position: relative;
+	flex: 0 0 auto;
+}
+
+.frame45 .you-can-reach-abu45 {
+	position: relative;
+	width: 318px;
+	height: 73px;
+	font-family: "SF Pro-Regular", Helvetica;
+	font-weight: 400;
+	color: #000000;
+	font-size: 15px;
+	letter-spacing: 0;
+	line-height: 25px;
+}
+
+.frame45 .span45 {
+	font-family: "SF Pro-Regular", Helvetica;
+	font-weight: 400;
+	color: #000000;
+	font-size: 15px;
+	letter-spacing: 0;
+	line-height: 15px;
+}
+
+input[type="text"], input[type="email"], textarea {
+	border: none;
+	outline: none;
+}
+
+.dist{
+	border: 1px solid rgb(172, 172, 172);
+	width: 1200px;
+	margin-left: 30px;
+	margin-top: -100px;
+	margin-bottom: 50px;
+}
