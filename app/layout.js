@@ -132,7 +132,7 @@ export default function RootLayout({ children }) {
                   <div class="dropdown-content">
                   <a href="/Pages/Account">My Profile</a>
                   <a href="#">Change Language</a>
-                  <a href="Pages/Contact">Contact us</a>
+                  <a href="https://demoooooapp.netlify.app/pages/contact">Contact us</a>
                   <a href="#">FAQ</a>
                   <a href="#">Settings</a>
                   <a href='../signin.html' class="lg-out"><img src='https://imgs.search.brave.com/CVkPv8ns5hlK9lc8NxDTkjIG4JmU20qmPnZvhkJq04U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/ZXMucHJvL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L2lj/b25lLWRlY29ubmV4/aW9uLWRlY29ubmV4/aW9uLXJvdWdlLnBu/Zw' width="16px" height="16px" class="lgout-img" />Logout</a>
