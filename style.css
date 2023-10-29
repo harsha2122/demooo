@@ -2703,7 +2703,7 @@ footer {
 }
 
 footer p {
-  margin: 0;
+  margin: 10px;
   font-size: 11px;
   color: #000000;
 }

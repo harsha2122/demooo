@@ -71,7 +71,7 @@
 .frame45 .div-445 {
 	display: flex;
 	flex-wrap: wrap;
-	width: 880px;
+	width: 730px;
 	align-items: flex-start;
 	gap: 22px 20px;
 	position: relative;
@@ -84,7 +84,7 @@
 	align-items: center;
 	gap: 16.25px;
 	position: relative;
-	flex: 0 0 auto;
+	width: 230px;
 }
 
 .frame45 .input45 {
@@ -92,7 +92,6 @@
 	align-items: flex-start;
 	position: relative;
 	padding: 10px 20px;
-	flex: 0 0 auto;
 	border-radius: 7.62px;
 	overflow: hidden;
 	border: 1.25px solid;
@@ -153,7 +152,7 @@
 }
 
 .frame45 .input-245 {
-	width: 880px;
+	width: 730px;
 	display: flex;
 	align-items: flex-start;
 	padding: 16.25px 69.98px 16.25px 17.5px;
