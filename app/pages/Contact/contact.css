@@ -250,8 +250,8 @@
 
 .frame45 .phone-call45 {
 	position: relative;
-	width: 52px;
-	height: 52px;
+	width: 30px;
+	height: 30px;
 	object-fit: cover;
 }
 
@@ -271,7 +271,7 @@
 	font-family: "SF Pro-Medium", Helvetica;
 	font-weight: 500;
 	color: #151515;
-	font-size: 20px;
+	font-size: 15px;
 	letter-spacing: 0;
 	line-height: normal;
 	white-space: nowrap;
@@ -279,7 +279,7 @@
 
 .frame45 .text-wrapper-545 {
 	position: relative;
-	width: 318px;
+	width: 218px;
 	height: 73px;
 	margin-right: -123px;
 	font-family: "SF Pro-Regular", Helvetica;
@@ -293,15 +293,15 @@
 .frame45 .div-945 {
 	display: inline-flex;
 	align-items: flex-start;
-	gap: 252px;
+	gap: 175px;
 	position: relative;
 	flex: 0 0 auto;
 }
 
 .frame45 .location45 {
 	position: relative;
-	width: 62px;
-	height: 62px;
+	width: 45px;
+	height: 45px;
 	object-fit: cover;
 }
 
