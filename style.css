@@ -1,3 +1,10 @@
+*{
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;  
+  
+}
+
+
 .sign-up {
     background-color: #ffffff;
     display: flex;
