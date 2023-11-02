@@ -219,9 +219,15 @@
   align-items: flex-start;
   display: inline-flex;
   gap: 9.14px;
-  left: 334px;
+  left: 370px;
   position: absolute;
   top: 79px;
+}
+
+.dashboard .v-pic{
+  position: absolute;
+  top: 30px;
+  left: 250px;
 }
 
 .dashboard .vector-8 {

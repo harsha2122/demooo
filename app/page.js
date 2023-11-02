@@ -29,6 +29,7 @@ const page = () => {
                 <div className="text-wrapper-13">Welcome</div>
               </div>
               <div className="text-wrapper-14">Muhammad Abdullah</div>
+              <img class="v-pic" src='/assets/v.png'/>
             </div>
           </div>
 
