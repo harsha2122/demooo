@@ -238,13 +238,14 @@
   
   .contact{
     width: 357px;
-    padding: 10px 15px;
+    padding: 10px 90px;
     position: absolute;
-    top: -21px;
+    top: -20.5px;
     left: -28px;
     background: transparent;
-    text-align: center;
+    text-align: left;
     border: 1px solid rgb(192, 192, 192);
+    font-size: 16px;
     border-radius: 5px;
   }
   
