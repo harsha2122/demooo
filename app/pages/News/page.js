@@ -56,7 +56,7 @@ const page = () => {
           <img
             className="screenshot"
             alt="Screenshot"
-            src="https://c.animaapp.com/9OLIuJbR/img/screenshot-2023-10-14-at-4-32-1@2x.png"
+            src="/assets/ni.png"
           />
           <div className="overline-2">JUN 14,2023</div>
           <div className="frame-7">
@@ -71,7 +71,7 @@ const page = () => {
           <img
             className="screenshot-2"
             alt="Screenshot"
-            src="https://c.animaapp.com/9OLIuJbR/img/screenshot-2023-10-14-at-4-32-1@2x.png"
+            src="/assets/ni1.png"
           />
           <div className="overline-3">JUN 14,2023</div>
           <div className="frame-8">
@@ -91,7 +91,7 @@ const page = () => {
           <img
             className="screenshot-4"
             alt="Screenshot"
-            src="https://c.animaapp.com/9OLIuJbR/img/screenshot-2023-06-21-at-5-52-1@2x.png"
+            src="/assets/nm2.png"
           />
           <p className="title-3">
             Abu Dhabi Chamber discusses private sector policies and
