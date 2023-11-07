@@ -46,7 +46,7 @@ const page = () => {
           <div className="overline">JUN 14,2023</div>
           <div className="frame-6">
             <div className="secondary-text-wrapper">
-              <p className="secondary-text">
+              <p className="secondary-text1">
               The Abu Dhabi Chamber of Commerce and Industry (ADCCI) has signed a Memorandum of Understanding with First Abu Dhabi Bank (FAB). The MoU seeks to create a collaborative framework to optimise the investment climate and business environment in the Emirate of Abu Dhabi, in line with the Abu Dhabi Chamber’s objective to support the private sector and enhance its competitiveness.
                 
               </p>
